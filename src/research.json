@@ -1,0 +1,556 @@
+{
+  "title": "TreeBites first-pass product and retailer register",
+  "checkedDate": "2026-09-25",
+  "scope": "18 listings observed in Fashinoworld Food and Health collection; 17 Amazon detail pages inspected. Not a guarantee of complete brand inventory.",
+  "statusDefinitions": {
+    "productionReady": "All false: this is a research register, not a publication-approved catalogue.",
+    "identity_and_quantity_match": "Public listing names and net quantity align; ingredients, imagery and final copy still need brand confirmation.",
+    "probable_match_label_check": "Brand/type align but store text lacks pack size; current packaging is needed.",
+    "otherStatuses": "See product notes; resolve conflicts before enabling affected exact-product order buttons."
+  },
+  "prices": "Fashinoworld prices observed on the checked date, not current guaranteed prices. No Amazon price mirroring is proposed.",
+  "products": [
+    {
+      "researchId": "TB-01",
+      "displayName": "Moringa Capsules",
+      "proposedCategory": "Supplements & Fibre",
+      "quantityEvidence": "30 capsules",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-moringa-capsules-30-capsules-plant-based-nutritional-supplement",
+        "variantId": "53890295791909",
+        "variantUrl": "https://fashinoworld.com/products/treebites-moringa-capsules-30-capsules-plant-based-nutritional-supplement?variant=53890295791909",
+        "sku": "tree-cap-01",
+        "observedPriceINR": 199,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HKTDX67Y",
+        "url": "https://www.amazon.in/dp/B0HKTDX67Y",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "identity_match_content_conflict"
+      },
+      "notes": "Amazon title and pack count match. Primary Supplement Type and Generic Name incorrectly refer to psyllium husk; confirm label and correct listing before reusing copy.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3682.png?v=1790173990",
+      "sourceGalleryImageCount": 3,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-02",
+      "displayName": "Sattu Protein Mix",
+      "proposedCategory": "Breakfast & Drink Mixes",
+      "quantityEvidence": "50 g",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-sattu-protein-mix-instant-nutrition-drink-mix-50g",
+        "variantId": "53853035823397",
+        "variantUrl": "https://fashinoworld.com/products/treebites-sattu-protein-mix-instant-nutrition-drink-mix-50g?variant=53853035823397",
+        "sku": "Tree-sattu-01",
+        "observedPriceINR": 60,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HK8MJRMW",
+        "url": "https://www.amazon.in/dp/B0HK8MJRMW",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "identity_and_quantity_match"
+      },
+      "notes": "Amazon and Fashinoworld identify 50 g. Amazon Material Type Free field lists sattu and seeds; confirm ingredients/allergens from the label rather than that field.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_f776f233-1c5a-4a80-8c68-8f145fc6601c.png?v=1789737390",
+      "sourceGalleryImageCount": 4,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-03",
+      "displayName": "Nolen Gur — two-pack",
+      "proposedCategory": "Kitchen Staples",
+      "quantityEvidence": "2 × 250 g",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-nolen-gur-date-palm-jaggery-traditional-bengali-khejur-gur-pack-of-2-x-250-g",
+        "variantId": "53818710458661",
+        "variantUrl": "https://fashinoworld.com/products/treebites-nolen-gur-date-palm-jaggery-traditional-bengali-khejur-gur-pack-of-2-x-250-g?variant=53818710458661",
+        "sku": "TREEBITES-NOLENGUR-500G",
+        "observedPriceINR": 399,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": null,
+        "url": null,
+        "detailPageOpened": false,
+        "sellerObserved": null,
+        "availableAtCheck": null,
+        "matchStatus": "amazon_not_verified"
+      },
+      "notes": "No separate two-pack Amazon listing verified. Do not assign the single-jar ASIN simply because the observed Amazon price was also ₹399.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/TreebitesNutsecommerceproductimages_2.png?v=1789323540",
+      "sourceGalleryImageCount": 3,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-04",
+      "displayName": "Isabgol / Psyllium Husk",
+      "proposedCategory": "Supplements & Fibre",
+      "quantityEvidence": "100 g",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-isabgol-psyllium-husk-pure-natural-high-fiber-100-g",
+        "variantId": "53818698563877",
+        "variantUrl": "https://fashinoworld.com/products/treebites-isabgol-psyllium-husk-pure-natural-high-fiber-100-g?variant=53818698563877",
+        "sku": "tree-isab-01",
+        "observedPriceINR": 199,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJP447JN",
+        "url": "https://www.amazon.in/dp/B0HJP447JN",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "identity_and_quantity_match"
+      },
+      "notes": "Product and net quantity match in reviewed text. Final serving directions and label information still need approved source material.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_000000008d7482439c16507801f25413.png?v=1789322135",
+      "sourceGalleryImageCount": 3,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-05",
+      "displayName": "Healthy Mix Seed Blend",
+      "proposedCategory": "Seeds & Seed Mixes",
+      "quantityEvidence": "200 g",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-healthy-mix-premium-seed-blend-pumpkin-sunflower-flax-sesame-seeds-200-g",
+        "variantId": "53815466787109",
+        "variantUrl": "https://fashinoworld.com/products/treebites-healthy-mix-premium-seed-blend-pumpkin-sunflower-flax-sesame-seeds-200-g?variant=53815466787109",
+        "sku": "TB0012",
+        "observedPriceINR": 150,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJMNB6GM",
+        "url": "https://www.amazon.in/dp/B0HJMNB6GM",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "quantity_and_content_conflict"
+      },
+      "notes": "Fashinoworld and Amazon title say 200 g; Amazon Net Quantity says 250 g and Generic Name says Sunflower Seeds. Resolve before exact-pack linking.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3496.png?v=1789234540",
+      "sourceGalleryImageCount": 3,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-06",
+      "displayName": "Nolen Gur Coconut Chill",
+      "proposedCategory": "Juices & Beverages",
+      "quantityEvidence": "200 ml",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebite-nolen-gur-coconut-chill-200-ml",
+        "variantId": "53755914682661",
+        "variantUrl": "https://fashinoworld.com/products/treebite-nolen-gur-coconut-chill-200-ml?variant=53755914682661",
+        "sku": "TB005",
+        "observedPriceINR": 110,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJMK2DST",
+        "url": "https://www.amazon.in/dp/B0HJMK2DST",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "identity_and_quantity_match"
+      },
+      "notes": "Both product titles and Amazon net quantity say 200 ml. Fashinoworld has a stale 100ml drink tag; do not use tags as the quantity source.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000cb948208a4317811579a7608.png?v=1788703772",
+      "sourceGalleryImageCount": 3,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-07",
+      "displayName": "Mosambi & Lemon Juice",
+      "proposedCategory": "Juices & Beverages",
+      "quantityEvidence": "100 ml — disputed",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebite-mozombe-mosambi-lebur-juice-100-ml",
+        "variantId": "53745134108965",
+        "variantUrl": "https://fashinoworld.com/products/treebite-mozombe-mosambi-lebur-juice-100-ml?variant=53745134108965",
+        "sku": "TB004",
+        "observedPriceINR": 110,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJMVX7DC",
+        "url": "https://www.amazon.in/dp/B0HJMVX7DC",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "quantity_conflict"
+      },
+      "notes": "Fashinoworld says 100 ml. Amazon title says 100 ml but Net Quantity says 200 ml. Confirm the physical pack.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3319_1.png?v=1788532966",
+      "sourceGalleryImageCount": 1,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-08",
+      "displayName": "Pineapple Fruit Beer Juice",
+      "proposedCategory": "Juices & Beverages",
+      "quantityEvidence": "200 ml — disputed",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebite-pineapple-fruit-beer-juice-250-ml",
+        "variantId": "53745132634405",
+        "variantUrl": "https://fashinoworld.com/products/treebite-pineapple-fruit-beer-juice-250-ml?variant=53745132634405",
+        "sku": "TB003",
+        "observedPriceINR": 110,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJMLS2WR",
+        "url": "https://www.amazon.in/dp/B0HJMLS2WR",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "quantity_conflict"
+      },
+      "notes": "Fashinoworld title and description say 200 ml, its URL says 250 ml and tags say 100ml. Amazon title says 250 ml but Net Quantity says 200 ml.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3313_1.png?v=1788532769",
+      "sourceGalleryImageCount": 1,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-09",
+      "displayName": "Watermelon Fruit Beer Juice",
+      "proposedCategory": "Juices & Beverages",
+      "quantityEvidence": "100 ml",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebite-watermelon-fruit-beer-juice-100-ml",
+        "variantId": "53745128702245",
+        "variantUrl": "https://fashinoworld.com/products/treebite-watermelon-fruit-beer-juice-100-ml?variant=53745128702245",
+        "sku": "TB002",
+        "observedPriceINR": 110,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJMP8Y9Q",
+        "url": "https://www.amazon.in/dp/B0HJMP8Y9Q",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "identity_and_quantity_match"
+      },
+      "notes": "Fashinoworld and Amazon title/net quantity say 100 ml. Amazon Item Weight is 200 g; do not substitute shipping/item weight for net volume.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3326_1.png?v=1788532642",
+      "sourceGalleryImageCount": 2,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-10",
+      "displayName": "Carrot & Apple Fruit Beer Juice",
+      "proposedCategory": "Juices & Beverages",
+      "quantityEvidence": "100 ml",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebite-carrot-apple-fruit-beer-juice-100-ml",
+        "variantId": "53745120575781",
+        "variantUrl": "https://fashinoworld.com/products/treebite-carrot-apple-fruit-beer-juice-100-ml?variant=53745120575781",
+        "sku": "TB001",
+        "observedPriceINR": 110,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJMXR9Y7",
+        "url": "https://www.amazon.in/dp/B0HJMXR9Y7",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "identity_and_quantity_match"
+      },
+      "notes": "Product and 100 ml net quantity match in reviewed text.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3324_1.png?v=1788532491",
+      "sourceGalleryImageCount": 2,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-11",
+      "displayName": "Carrot, Beetroot, Ginger & Lemon Juice",
+      "proposedCategory": "Juices & Beverages",
+      "quantityEvidence": "100 ml",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-carrot-beetroot-ginger-lemon-cold-pressed-healthy-juice-100-ml",
+        "variantId": "53745098719525",
+        "variantUrl": "https://fashinoworld.com/products/treebites-carrot-beetroot-ginger-lemon-cold-pressed-healthy-juice-100-ml?variant=53745098719525",
+        "sku": "FW011",
+        "observedPriceINR": 110,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJMM4RMF",
+        "url": "https://www.amazon.in/dp/B0HJMM4RMF",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "identity_and_quantity_match"
+      },
+      "notes": "Product and 100 ml net quantity match. Store description includes asterisks after claims without an explanatory footnote; obtain final label wording.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_0000000070cc8208a63e6e2ec59cd69d.png?v=1788531669",
+      "sourceGalleryImageCount": 4,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-12",
+      "displayName": "Nolen Gur — single jar",
+      "proposedCategory": "Kitchen Staples",
+      "quantityEvidence": "250 g — Amazon title unit disputed",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-nolen-gur-traditional-bengali-date-palm-jaggery-natural-sweetener-250-g",
+        "variantId": "53719201579301",
+        "variantUrl": "https://fashinoworld.com/products/treebites-nolen-gur-traditional-bengali-date-palm-jaggery-natural-sweetener-250-g?variant=53719201579301",
+        "sku": "TREEBITES-NOLENGUR-250G",
+        "observedPriceINR": 250,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJHDMM2R",
+        "url": "https://www.amazon.in/dp/B0HJHDMM2R",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "unit_and_pack_confirmation_required"
+      },
+      "notes": "Fashinoworld says 250 g. Amazon title says 250 ml, but details say 250 g and Number of Items 1. Do not use this candidate for the two-pack.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_0000000026148211a28cadc2ef404438_1.png?v=1788245592",
+      "sourceGalleryImageCount": 3,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-13",
+      "displayName": "Flax Seeds",
+      "proposedCategory": "Seeds & Seed Mixes",
+      "quantityEvidence": "250 g — SKU/Amazon evidence",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-premium-flax-seeds-natural-nutritious",
+        "variantId": "53656120688933",
+        "variantUrl": "https://fashinoworld.com/products/treebites-premium-flax-seeds-natural-nutritious?variant=53656120688933",
+        "sku": "FW-FS-250G-001",
+        "observedPriceINR": 250,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HHZCFQQV",
+        "url": "https://www.amazon.in/dp/B0HHZCFQQV",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "probable_match_label_check"
+      },
+      "notes": "Store title/description omit net weight; store SKU encodes 250G and Amazon title/details say 250 g. Confirm current packaging.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3183.png?v=1787973159",
+      "sourceGalleryImageCount": 4,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-14",
+      "displayName": "Chia Seeds",
+      "proposedCategory": "Seeds & Seed Mixes",
+      "quantityEvidence": "250 g — SKU/Amazon evidence",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-premium-chia-seeds-natural-nutritious",
+        "variantId": "53656100503845",
+        "variantUrl": "https://fashinoworld.com/products/treebites-premium-chia-seeds-natural-nutritious?variant=53656100503845",
+        "sku": "FW-CS-250G-001",
+        "observedPriceINR": 250,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HHXSJTFR",
+        "url": "https://www.amazon.in/dp/B0HHXSJTFR",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "probable_match_label_check"
+      },
+      "notes": "Store title/description omit net weight; store SKU encodes 250G and Amazon details say 250 g. Confirm current packaging.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/ChatGPTImageAug22_2026_11_47_36PM.png?v=1787491111",
+      "sourceGalleryImageCount": 6,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-15",
+      "displayName": "Pumpkin Seeds",
+      "proposedCategory": "Seeds & Seed Mixes",
+      "quantityEvidence": "250 g — SKU/tag/Amazon evidence",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-premium-pumpkin-seeds-natural-nutritious",
+        "variantId": "53656091296037",
+        "variantUrl": "https://fashinoworld.com/products/treebites-premium-pumpkin-seeds-natural-nutritious?variant=53656091296037",
+        "sku": "FW-PS-250G-001",
+        "observedPriceINR": 199,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJMPGZZN",
+        "url": "https://www.amazon.in/dp/B0HJMPGZZN",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "probable_match_label_check"
+      },
+      "notes": "Store SKU/tag and Amazon title/details indicate 250 g, omitted from store title. Amazon describes raw unpolished; old Wix URL says roasted-pumpkin-kernels. Confirm preparation type.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3218.png?v=1788022360",
+      "sourceGalleryImageCount": 7,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-16",
+      "displayName": "Sunflower Seeds",
+      "proposedCategory": "Seeds & Seed Mixes",
+      "quantityEvidence": "250 g",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-premium-sunflower-seeds-250g-natural-plant-based-nutrition-rich-in-vitamin-e-protein-healthy-fats-crunchy-nutritious-snack",
+        "variantId": "53656087298341",
+        "variantUrl": "https://fashinoworld.com/products/treebites-premium-sunflower-seeds-250g-natural-plant-based-nutrition-rich-in-vitamin-e-protein-healthy-fats-crunchy-nutritious-snack?variant=53656087298341",
+        "sku": "FW-SFS-250G-001",
+        "observedPriceINR": 149,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJHRDVY2",
+        "url": "https://www.amazon.in/dp/B0HJHRDVY2",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "identity_match_brand_metadata_conflict"
+      },
+      "notes": "Title, seller and 250 g quantity align, but Amazon Brand field says Generic. Confirm packaging and correct brand metadata.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3239.png?v=1788244291",
+      "sourceGalleryImageCount": 5,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-17",
+      "displayName": "Pure Ghee",
+      "proposedCategory": "Kitchen Staples",
+      "quantityEvidence": "250 g",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-pure-ghee-250g",
+        "variantId": "53598685888805",
+        "variantUrl": "https://fashinoworld.com/products/treebites-pure-ghee-250g?variant=53598685888805",
+        "sku": "TB-GHEE-250G-001",
+        "observedPriceINR": 299,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJP46LX6",
+        "url": "https://www.amazon.in/dp/B0HJP46LX6",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "identity_match_claim_confirmation_required"
+      },
+      "notes": "Product and size align. Amazon title adds A2 Cow Milk while Fashinoworld says traditional clarified butter and Wix says Organic Infused Ghee. Establish the approved product name and supported attributes.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3179.png?v=1788244482",
+      "sourceGalleryImageCount": 6,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-18",
+      "displayName": "Raw Turmeric / Kacchi Haldi",
+      "proposedCategory": "Kitchen Staples",
+      "quantityEvidence": "200 g",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-raw-turmeric-kacchi-haldi-200g",
+        "variantId": "53719182442789",
+        "variantUrl": "https://fashinoworld.com/products/treebites-raw-turmeric-kacchi-haldi-200g?variant=53719182442789",
+        "sku": "TB-RT-200G",
+        "observedPriceINR": 49,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": "B0HJP4C8ZT",
+        "url": "https://www.amazon.in/dp/B0HJP4C8ZT",
+        "detailPageOpened": true,
+        "sellerObserved": "FASHINO WORLD",
+        "availableAtCheck": true,
+        "matchStatus": "identity_and_quantity_match"
+      },
+      "notes": "Product and 200 g net quantity match in reviewed text.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000bb308211aad23c59334dc36c.png?v=1788244959",
+      "sourceGalleryImageCount": 4,
+      "lastChecked": "2026-09-25",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-19",
+      "displayName": "Sattu Protein Mix — 150 g",
+      "proposedCategory": "Breakfast & Drink Mixes",
+      "quantityEvidence": "150 g",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-sattu-protein-mix-plant-based-nutrition-breakfast-mix-150g",
+        "variantId": 53902797537573,
+        "variantUrl": "https://fashinoworld.com/products/treebites-sattu-protein-mix-plant-based-nutrition-breakfast-mix-150g?variant=53902797537573",
+        "sku": "tree-sattu-02",
+        "observedPriceINR": 199,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": null,
+        "url": null,
+        "detailPageOpened": false,
+        "sellerObserved": null,
+        "availableAtCheck": null,
+        "matchStatus": "amazon_not_verified"
+      },
+      "notes": "Newly found in the official collection on 5 October 2026. Amazon URL not verified.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3700.png?v=1790392821",
+      "sourceGalleryImageCount": 3,
+      "lastChecked": "2026-10-05",
+      "productionReady": false
+    },
+    {
+      "researchId": "TB-20",
+      "displayName": "Shilajit Capsules",
+      "proposedCategory": "Supplements & Fibre",
+      "quantityEvidence": "30 capsules",
+      "fashinoworld": {
+        "url": "https://fashinoworld.com/products/treebites-shilajit-capsules-30-capsules-natural-wellness-supplement",
+        "variantId": 53902758478117,
+        "variantUrl": "https://fashinoworld.com/products/treebites-shilajit-capsules-30-capsules-natural-wellness-supplement?variant=53902758478117",
+        "sku": "tree-sila-01",
+        "observedPriceINR": 249,
+        "availableAtCheck": true
+      },
+      "amazon": {
+        "asin": null,
+        "url": null,
+        "detailPageOpened": false,
+        "sellerObserved": null,
+        "availableAtCheck": null,
+        "matchStatus": "amazon_not_verified"
+      },
+      "notes": "Newly found in the official collection on 5 October 2026. Amazon URL not verified.",
+      "primaryImageSource": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3696.png?v=1790392042",
+      "sourceGalleryImageCount": 2,
+      "lastChecked": "2026-10-05",
+      "productionReady": false
+    }
+  ],
+  "latestFashinoworldCollectionCheck": "2026-10-05",
+  "collectionNote": "19 products in the Food and Health collection plus the still-accessible Nolen Gur two-pack product."
+}

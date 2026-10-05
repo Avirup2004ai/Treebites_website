@@ -1,0 +1,119 @@
+{
+  "id": 10683120746789,
+  "title": "TreeBites Shilajit Capsules – 30 Capsules | Natural Wellness Supplement",
+  "handle": "treebites-shilajit-capsules-30-capsules-natural-wellness-supplement",
+  "description": "<p dir=\"auto\" data-start=\"253\" data-end=\"497\" class=\"PDq2pG_selectionAnchorContainer\">Bring the traditional goodness of <strong data-start=\"287\" data-end=\"299\">Shilajit</strong> into your daily routine with TreeBites Shilajit Capsules. Designed in a convenient capsule format, they make it easy to include Shilajit-based nutrition as part of your everyday wellness lifestyle.<span class=\"PDq2pG_selectionAnchor\"></span></p>\n<p dir=\"auto\" data-start=\"499\" data-end=\"694\">Made with a focus on convenience and quality, TreeBites Shilajit Capsules are suitable for those looking for a simple way to incorporate a traditional natural ingredient into their daily routine.</p>\n<p dir=\"auto\" data-start=\"696\" data-end=\"713\"><strong data-start=\"696\" data-end=\"713\">Key Features:</strong></p>\n<ul data-start=\"714\" data-end=\"920\">\n<li data-section-id=\"wtc09h\" data-start=\"714\" data-end=\"761\">Natural Shilajit-based nutritional supplement</li>\n<li data-section-id=\"1c8d9bz\" data-start=\"762\" data-end=\"789\">Convenient capsule format</li>\n<li data-section-id=\"idypd2\" data-start=\"790\" data-end=\"818\"><strong data-start=\"792\" data-end=\"818\">30 capsules per bottle</strong></li>\n<li data-section-id=\"164tj0q\" data-start=\"819\" data-end=\"848\">Premium-quality positioning</li>\n<li data-section-id=\"1ehwe6y\" data-start=\"849\" data-end=\"874\">No artificial additives</li>\n<li data-section-id=\"jbxdpv\" data-start=\"875\" data-end=\"920\">Easy to incorporate into your daily routine</li>\n</ul>\n<p dir=\"auto\" data-start=\"922\" data-end=\"958\"> </p>",
+  "published_at": "2026-09-26T08:42:36+05:30",
+  "created_at": "2026-09-26T08:42:34+05:30",
+  "vendor": "TreeBites",
+  "type": "Shilajit Capsules",
+  "tags": [
+    "30 capsules",
+    "daily wellness",
+    "energy supplement",
+    "herbal supplement",
+    "natural supplement",
+    "natural wellness",
+    "nutritional supplement",
+    "plant based supplement",
+    "premium shilajit",
+    "shilajit",
+    "shilajit capsules",
+    "shilajit supplement",
+    "stamina supplement",
+    "TreeBites",
+    "wellness supplement"
+  ],
+  "price": 24900,
+  "price_min": 24900,
+  "price_max": 24900,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 53902758478117,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "tree-sila-01",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TreeBites Shilajit Capsules – 30 Capsules | Natural Wellness Supplement",
+      "public_title": null,
+      "options": [
+        "Default Title"
+      ],
+      "price": 24900,
+      "weight": 100,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3696.png?v=1790392042",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3698.png?v=1790392042"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3696.png?v=1790392042",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "url": "/products/treebites-shilajit-capsules-30-capsules-natural-wellness-supplement",
+  "media": [
+    {
+      "alt": null,
+      "id": 58578294472997,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3696.png?v=1790392042"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3696.png?v=1790392042",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58578294440229,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3698.png?v=1790392042"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3698.png?v=1790392042",
+      "width": 1254
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

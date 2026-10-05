@@ -1,0 +1,137 @@
+{
+  "id": 10678970482981,
+  "title": "TreeBites Moringa Capsules – 30 Capsules | Plant-Based Nutritional Supplement",
+  "handle": "treebites-moringa-capsules-30-capsules-plant-based-nutritional-supplement",
+  "description": "<p dir=\"auto\" class=\"PDq2pG_selectionAnchorContainer\">Make moringa a simple part of your everyday wellness routine with <strong>TreeBites Moringa Capsules</strong>. Made with moringa-based nutrition, these capsules offer a convenient alternative to consuming moringa powder while fitting easily into your daily lifestyle.<span class=\"PDq2pG_selectionAnchor\"></span></p>\n<h4 dir=\"auto\">Key Features</h4>\n<ul>\n<li>🌿 <strong>Moringa-based nutritional supplement</strong>\n</li>\n<li>🌱 <strong>Plant-based</strong>\n</li>\n<li>💚 <strong>100% natural positioning</strong>\n</li>\n<li>🚫 <strong>No artificial additives</strong>\n</li>\n<li>💊 <strong>Easy-to-use capsule format</strong>\n</li>\n<li>📦 <strong>30 capsules per pack</strong>\n</li>\n<li>🇮🇳 Made for convenient everyday nutrition</li>\n</ul>",
+  "published_at": "2026-09-23T20:10:13+05:30",
+  "created_at": "2026-09-23T20:10:11+05:30",
+  "vendor": "TreeBites",
+  "type": "Nutritional Supplement",
+  "tags": [
+    "30 capsules",
+    "daily nutrition",
+    "health supplement",
+    "herbal supplement",
+    "moringa",
+    "moringa capsules",
+    "moringa nutrition",
+    "moringa powder",
+    "moringa supplement",
+    "natural supplement",
+    "natural wellness",
+    "nutritional supplement",
+    "plant based supplement",
+    "TreeBites",
+    "vegan supplement",
+    "wellness supplement"
+  ],
+  "price": 19900,
+  "price_min": 19900,
+  "price_max": 19900,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 53890295791909,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "tree-cap-01",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TreeBites Moringa Capsules – 30 Capsules | Plant-Based Nutritional Supplement",
+      "public_title": null,
+      "options": [
+        "Default Title"
+      ],
+      "price": 19900,
+      "weight": 50,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3681.png?v=1790173990",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3682.png?v=1790173990",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3684.png?v=1790173990"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3681.png?v=1790173990",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "url": "/products/treebites-moringa-capsules-30-capsules-plant-based-nutritional-supplement",
+  "media": [
+    {
+      "alt": null,
+      "id": 58552720228645,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3681.png?v=1790173990"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3681.png?v=1790173990",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58552720195877,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3682.png?v=1790173990"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3682.png?v=1790173990",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58552720163109,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3684.png?v=1790173990"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3684.png?v=1790173990",
+      "width": 1254
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

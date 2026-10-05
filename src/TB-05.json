@@ -1,0 +1,145 @@
+{
+  "id": 10663920664869,
+  "title": "TreeBites Healthy Mix Premium Seed Blend – Pumpkin, Sunflower, Flax & Sesame Seeds – 200 g",
+  "handle": "treebites-healthy-mix-premium-seed-blend-pumpkin-sunflower-flax-sesame-seeds-200-g",
+  "description": "<p class=\"PDq2pG_selectionAnchorContainer\"><strong>TreeBites Healthy Mix</strong> is a premium blend of carefully selected seeds including <strong>pumpkin seeds, sunflower seeds, flax seeds and sesame seeds</strong>. Packed as a convenient everyday seed blend, it can be added to meals, salads, cereals, smoothies, yoghurt, snacks and other recipes.<span class=\"PDq2pG_selectionAnchor\"></span></p>\n<p>The blend combines different seeds to provide a variety of naturally occurring nutrients. Pumpkin seeds are a source of magnesium and zinc, sunflower seeds provide vitamin E, flax seeds are naturally rich in omega-3 and fibre, while sesame seeds provide calcium and other nutrients.</p>\n<h3>Key Highlights</h3>\n<ul>\n<li>Premium mixed seed blend</li>\n<li>Contains <strong>Pumpkin Seeds, Sunflower Seeds, Flax Seeds &amp; Sesame Seeds</strong>\n</li>\n<li>Plant-based source of naturally occurring nutrients</li>\n<li>Rich in dietary fibre</li>\n<li>Contains naturally occurring healthy fats and minerals</li>\n<li>Suitable for everyday meals and snacking</li>\n<li>Can be added to salads, cereals, smoothies, yoghurt and other foods</li>\n<li><strong>Net Quantity: 200 g</strong></li>\n<li><strong>MRP: ₹150</strong></li>\n</ul>",
+  "published_at": "2026-09-12T23:10:59+05:30",
+  "created_at": "2026-09-12T23:10:57+05:30",
+  "vendor": "TreeBites",
+  "type": "dry foods",
+  "tags": [
+    "Calcium-Rich",
+    "Everyday-Nutrition",
+    "Flax-Seeds",
+    "Healthy-Mix",
+    "Healthy-Seeds",
+    "Healthy-Snack",
+    "High-Fiber",
+    "Magnesium-Rich",
+    "Mixed-Seed-Blend",
+    "Mixed-Seeds",
+    "Natural-Seeds",
+    "Omega-3-Seeds",
+    "Plant-Based",
+    "Premium-Seed-Blend",
+    "Premium-Seeds",
+    "Protein-Rich-Seeds",
+    "Pumpkin-Seeds",
+    "Seed-Mix",
+    "Seed-Mix-for-Salad",
+    "Seeds-for-Breakfast",
+    "Sesame-Seeds",
+    "Sunflower-Seeds",
+    "TreeBites",
+    "Vitamin-E"
+  ],
+  "price": 15000,
+  "price_min": 15000,
+  "price_max": 15000,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 53815466787109,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "TB0012",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TreeBites Healthy Mix Premium Seed Blend – Pumpkin, Sunflower, Flax & Sesame Seeds – 200 g",
+      "public_title": null,
+      "options": [
+        "Default Title"
+      ],
+      "price": 15000,
+      "weight": 200,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3495.png?v=1789234540",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3496.png?v=1789234540",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3500.png?v=1789234540"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3495.png?v=1789234540",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "url": "/products/treebites-healthy-mix-premium-seed-blend-pumpkin-sunflower-flax-sesame-seeds-200-g",
+  "media": [
+    {
+      "alt": null,
+      "id": 58446497513765,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3495.png?v=1789234540"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3495.png?v=1789234540",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58446497546533,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3496.png?v=1789234540"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3496.png?v=1789234540",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58446497579301,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3500.png?v=1789234540"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3500.png?v=1789234540",
+      "width": 1254
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

@@ -1,0 +1,131 @@
+{
+  "id": 10646787588389,
+  "title": "TreeBites Nolen Gur – Traditional Bengali Date Palm Jaggery | Natural Sweetener | 250 g",
+  "handle": "treebites-nolen-gur-traditional-bengali-date-palm-jaggery-natural-sweetener-250-g",
+  "description": "<p class=\"PDq2pG_selectionAnchorContainer\"><strong>TreeBites Nolen Gur</strong> brings you the rich, distinctive sweetness of traditional Bengali <strong>date palm jaggery (Nolen Gur)</strong>. Known for its deep caramel-like flavour and natural aroma, Nolen Gur is a beloved ingredient in Bengali cuisine and desserts.<span class=\"PDq2pG_selectionAnchor\"></span></p>\n<p>Carefully packed to preserve its authentic taste and texture, it is ideal for adding natural sweetness to <strong>mishti, payesh, pitha, desserts, sweets, beverages and everyday recipes</strong>.</p>\n<p><strong>Key Features:</strong></p>\n<ul>\n<li>Traditional Bengali Nolen Gur</li>\n<li>Made from date palm sap</li>\n<li>Rich, naturally sweet flavour</li>\n<li>Smooth and aromatic texture</li>\n<li>Ideal for Bengali sweets and desserts</li>\n<li>Convenient <strong>250 g</strong> pack</li>\n</ul>\n<p><strong>Net Quantity:</strong> 250 g<br><strong>Brand:</strong> TreeBites<br><strong>Product Type:</strong> Date Palm Jaggery / Nolen Gur<br><strong>Country of Origin:</strong> India</p>",
+  "published_at": "2026-09-01T12:34:43+05:30",
+  "created_at": "2026-09-01T12:34:40+05:30",
+  "vendor": "TreeBites",
+  "type": "Nolen Gur",
+  "tags": [
+    "250g",
+    "Bengali Food",
+    "Bengali Jaggery",
+    "Date Palm Jaggery",
+    "Jaggery",
+    "Khejur Gur",
+    "Natural Sweetener",
+    "Nolen Gur",
+    "Traditional Food",
+    "TreeBites"
+  ],
+  "price": 25000,
+  "price_min": 25000,
+  "price_max": 25000,
+  "available": false,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 53719201579301,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "TREEBITES-NOLENGUR-250G",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": false,
+      "name": "TreeBites Nolen Gur – Traditional Bengali Date Palm Jaggery | Natural Sweetener | 250 g",
+      "public_title": null,
+      "options": [
+        "Default Title"
+      ],
+      "price": 25000,
+      "weight": 250,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/file_0000000026148211a28cadc2ef404438_1.png?v=1788245592",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/file_000000005d08821183a5cf565adb9e8a_1.png?v=1788245592",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000f9848211a9fc39bdb512c97f_1.png?v=1788245592"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0981/5719/9653/files/file_0000000026148211a28cadc2ef404438_1.png?v=1788245592",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "url": "/products/treebites-nolen-gur-traditional-bengali-date-palm-jaggery-natural-sweetener-250-g",
+  "media": [
+    {
+      "alt": null,
+      "id": 58317584105765,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_0000000026148211a28cadc2ef404438_1.png?v=1788245592"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_0000000026148211a28cadc2ef404438_1.png?v=1788245592",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58317584138533,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_000000005d08821183a5cf565adb9e8a_1.png?v=1788245592"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_000000005d08821183a5cf565adb9e8a_1.png?v=1788245592",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58317584072997,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000f9848211a9fc39bdb512c97f_1.png?v=1788245592"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000f9848211a9fc39bdb512c97f_1.png?v=1788245592",
+      "width": 1254
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

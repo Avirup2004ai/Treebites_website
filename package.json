@@ -1,0 +1,18 @@
+{
+  "name": "treebites-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node serve.mjs",
+    "check": "node verify.mjs && node scripts/verify-seo.mjs && node scripts/verify-interactions.mjs && node scripts/verify-navigation.mjs",
+    "images": "node scripts/prepare-assets.mjs",
+    "fonts": "node scripts/download-fonts.mjs",
+    "check:seo": "node scripts/verify-seo.mjs",
+    "check:http": "node scripts/verify-http.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}

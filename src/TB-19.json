@@ -1,0 +1,142 @@
+{
+  "id": 10683142930725,
+  "title": "TreeBites Sattu Protein Mix – Plant-Based Nutrition & Breakfast Mix | 150g",
+  "handle": "treebites-sattu-protein-mix-plant-based-nutrition-breakfast-mix-150g",
+  "description": "<p dir=\"auto\" data-start=\"507\" data-end=\"695\" class=\"PDq2pG_selectionAnchorContainer\">TreeBites Sattu Protein Mix combines traditional <strong data-start=\"556\" data-end=\"565\">sattu</strong> with nutrient-rich <strong data-start=\"585\" data-end=\"648\">pumpkin seeds, sunflower seeds, flax seeds and sesame seeds</strong> to create a convenient everyday nutrition mix.<span class=\"PDq2pG_selectionAnchor\"></span></p>\n<p dir=\"auto\" data-start=\"697\" data-end=\"826\">Made for modern lifestyles, it can be enjoyed as a quick breakfast drink, smoothie ingredient or added to your favourite recipes.</p>\n<p dir=\"auto\" data-start=\"828\" data-end=\"845\"><strong data-start=\"828\" data-end=\"845\">Key Features:</strong></p>\n<ul data-start=\"846\" data-end=\"1118\">\n<li data-section-id=\"1br5fhr\" data-start=\"846\" data-end=\"881\">Made with Sattu &amp; wholesome seeds</li>\n<li data-section-id=\"x214t8\" data-start=\"882\" data-end=\"913\">Plant-based source of protein</li>\n<li data-section-id=\"1i2bpss\" data-start=\"914\" data-end=\"954\">Contains fibre and essential nutrients</li>\n<li data-section-id=\"1ffbrr0\" data-start=\"955\" data-end=\"993\">Convenient everyday breakfast option</li>\n<li data-section-id=\"wgzu1u\" data-start=\"994\" data-end=\"1031\">No need for complicated preparation</li>\n<li data-section-id=\"1elmj6y\" data-start=\"1032\" data-end=\"1093\">Suitable for smoothies, shakes and traditional sattu drinks</li>\n<li data-section-id=\"pedls5\" data-start=\"1094\" data-end=\"1118\"><strong data-start=\"1096\" data-end=\"1118\">Net Quantity: 150g</strong></li>\n</ul>\n<p dir=\"auto\" data-start=\"1120\" data-end=\"1256\"> </p>",
+  "published_at": "2026-09-26T08:53:41+05:30",
+  "created_at": "2026-09-26T08:53:40+05:30",
+  "vendor": "TreeBites",
+  "type": "Sattu",
+  "tags": [
+    "150g",
+    "Breakfast Mix",
+    "flax seeds",
+    "healthy breakfast",
+    "Healthy Food",
+    "High Fibre",
+    "Natural Nutrition",
+    "nutrition mix",
+    "Plant Based Nutrition",
+    "Plant Based Protein",
+    "Protein Mix",
+    "Protein Powder",
+    "pumpkin seeds",
+    "Sattu",
+    "sattu powder",
+    "sattu protein mix",
+    "seed mix",
+    "Sesame Seeds",
+    "sunflower seeds",
+    "TreeBites",
+    "Vegetarian"
+  ],
+  "price": 19900,
+  "price_min": 19900,
+  "price_max": 19900,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 53902797537573,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "tree-sattu-02",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TreeBites Sattu Protein Mix – Plant-Based Nutrition & Breakfast Mix | 150g",
+      "public_title": null,
+      "options": [
+        "Default Title"
+      ],
+      "price": 19900,
+      "weight": 150,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3700.png?v=1790392821",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3701.png?v=1790392821",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3703.png?v=1790392821"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3700.png?v=1790392821",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "url": "/products/treebites-sattu-protein-mix-plant-based-nutrition-breakfast-mix-150g",
+  "media": [
+    {
+      "alt": null,
+      "id": 58578434556197,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3700.png?v=1790392821"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3700.png?v=1790392821",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58578434523429,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3701.png?v=1790392821"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3701.png?v=1790392821",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58578434588965,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3703.png?v=1790392821"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3703.png?v=1790392821",
+      "width": 1254
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

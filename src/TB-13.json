@@ -1,0 +1,155 @@
+{
+  "id": 10637116637477,
+  "title": "TreeBites Premium Flax Seeds – Natural & Nutritious",
+  "handle": "treebites-premium-flax-seeds-natural-nutritious",
+  "description": "<p class=\"PDq2pG_selectionAnchorContainer\"><strong>TreeBites Premium Flax Seeds</strong> are naturally nutritious seeds with a mild, nutty flavour and a satisfying crunch. They are an easy and versatile addition to everyday meals and can be enjoyed as part of a balanced diet.<span class=\"PDq2pG_selectionAnchor\"></span></p>\n<p>Flax seeds are naturally rich in <strong>dietary fibre, plant-based protein, omega-3 fatty acids and essential nutrients</strong>, making them a convenient ingredient for everyday nutrition.</p>\n<p><strong>Key Highlights:</strong></p>\n<ul>\n<li>Premium-quality flax seeds</li>\n<li>Naturally rich in dietary fibre</li>\n<li>Source of plant-based protein</li>\n<li>Contains omega-3 fatty acids</li>\n<li>Mild, nutty flavour</li>\n<li>Easy to add to everyday meals</li>\n<li>Suitable for smoothies, oatmeal, yogurt and salads</li>\n<li>Convenient everyday nutritional ingredient</li>\n</ul>\n<p><strong>How to Use:</strong><br>Add whole or ground flax seeds to smoothies, cereals, oatmeal, yogurt, salads and baked recipes. They can also be consumed as part of your preferred daily diet.</p>\n<p><strong>TreeBites — Nourishing Roots, Enriching Lives.</strong></p>",
+  "published_at": "2026-08-23T19:15:54+05:30",
+  "created_at": "2026-08-23T19:15:53+05:30",
+  "vendor": "TreeBites",
+  "type": "Flax Seeds",
+  "tags": [
+    "breakfast food",
+    "dietary fibre",
+    "flax seeds",
+    "flax seeds India",
+    "flaxseed",
+    "healthy lifestyle",
+    "healthy seeds",
+    "healthy snacks",
+    "natural seeds",
+    "nutritious food",
+    "omega 3",
+    "plant based",
+    "plant protein",
+    "premium flax seeds",
+    "smoothie ingredients",
+    "superfoods",
+    "TreeBites"
+  ],
+  "price": 25000,
+  "price_min": 25000,
+  "price_max": 25000,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 53656120688933,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FW-FS-250G-001",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TreeBites Premium Flax Seeds – Natural & Nutritious",
+      "public_title": null,
+      "options": [
+        "Default Title"
+      ],
+      "price": 25000,
+      "weight": 250,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3183.png?v=1787973159",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3188.png?v=1787973159",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3182.png?v=1787973159",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3210.png?v=1788022237"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3183.png?v=1787973159",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "url": "/products/treebites-premium-flax-seeds-natural-nutritious",
+  "media": [
+    {
+      "alt": null,
+      "id": 58297132876069,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3183.png?v=1787973159"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3183.png?v=1787973159",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58297132843301,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3188.png?v=1787973159"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3188.png?v=1787973159",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58297132810533,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3182.png?v=1787973159"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3182.png?v=1787973159",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58301481779493,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3210.png?v=1788022237"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3210.png?v=1788022237",
+      "width": 1254
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

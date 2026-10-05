@@ -1,0 +1,148 @@
+{
+  "id": 10671740125477,
+  "title": "TreeBites Sattu Protein Mix | Instant Nutrition Drink Mix | 50g",
+  "handle": "treebites-sattu-protein-mix-instant-nutrition-drink-mix-50g",
+  "description": "<p>TreeBites Sattu Protein Mix is a convenient instant nutrition drink mix made with sattu and a blend of seeds. It can be mixed with water or milk for a quick and easy beverage, making it suitable for breakfast, snacks or everyday nutrition.<br>Product Details:<br>Brand: TreeBites<br>Product: Sattu Protein Mix<br>Net Quantity: 50 g<br>MRP: ₹60<br>Form: Powder<br>Type: Instant Drink Mix<br>Usage: Mix with water or milk and shake well<br>Packaging: Food-grade sealed pack/bottle<br>Suitable for: Everyday nutrition and convenient breakfast/snacking<br>Storage: Store in a cool, dry place away from direct sunlight. Keep container tightly closed after opening.</p>",
+  "published_at": "2026-09-18T18:51:27+05:30",
+  "created_at": "2026-09-18T18:46:07+05:30",
+  "vendor": "TreeBites",
+  "type": "Sattu",
+  "tags": [
+    "healthy breakfast",
+    "instant drink powder",
+    "instant nutrition drink",
+    "nutrition mix",
+    "protein drink mix",
+    "sattu drink",
+    "sattu powder",
+    "sattu protein mix",
+    "seed mix",
+    "TreeBites"
+  ],
+  "price": 6000,
+  "price_min": 6000,
+  "price_max": 6000,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 53853035823397,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "Tree-sattu-01",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TreeBites Sattu Protein Mix | Instant Nutrition Drink Mix | 50g",
+      "public_title": null,
+      "options": [
+        "Default Title"
+      ],
+      "price": 6000,
+      "weight": 50,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_f063f56e-93c5-49ae-8294-6c22616f366d.png?v=1789737390",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_f776f233-1c5a-4a80-8c68-8f145fc6601c.png?v=1789737390",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_bf63723e-a3a9-44bb-b002-2c8c9595a1d6.png?v=1789737390",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_03d46427-1491-40ae-ab9f-2f0730e01d12.png?v=1789737390"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_f063f56e-93c5-49ae-8294-6c22616f366d.png?v=1789737390",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "url": "/products/treebites-sattu-protein-mix-instant-nutrition-drink-mix-50g",
+  "media": [
+    {
+      "alt": null,
+      "id": 58503969308965,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_f063f56e-93c5-49ae-8294-6c22616f366d.png?v=1789737390"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_f063f56e-93c5-49ae-8294-6c22616f366d.png?v=1789737390",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58503969276197,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_f776f233-1c5a-4a80-8c68-8f145fc6601c.png?v=1789737390"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_f776f233-1c5a-4a80-8c68-8f145fc6601c.png?v=1789737390",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58503969243429,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_bf63723e-a3a9-44bb-b002-2c8c9595a1d6.png?v=1789737390"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_bf63723e-a3a9-44bb-b002-2c8c9595a1d6.png?v=1789737390",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58503969210661,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_03d46427-1491-40ae-ab9f-2f0730e01d12.png?v=1789737390"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/rn-image_picker_lib_temp_03d46427-1491-40ae-ab9f-2f0730e01d12.png?v=1789737390",
+      "width": 1254
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

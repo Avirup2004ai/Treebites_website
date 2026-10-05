@@ -1,0 +1,160 @@
+/* Small, direct interactions; no animated shadows or moving card layouts. */
+:root {
+  --ease-settle: cubic-bezier(.22, 1, .36, 1);
+  --ease-flow: cubic-bezier(.4, 0, .2, 1);
+  --motion-settle: 260ms;
+}
+.button, .thumbnail, .category-chips a, a.pack-option, .mobile-toggle {
+  transition: transform var(--motion-settle) var(--ease-settle),
+    background-color 180ms var(--ease-flow), border-color 180ms var(--ease-flow), color 180ms var(--ease-flow);
+  -webkit-tap-highlight-color: transparent;
+}
+.button:hover { transform: none; }
+.button:active:not(:disabled), .thumbnail:active, .category-chips a:active,
+a.pack-option:active, .mobile-toggle:active {
+  transform: translateY(1px);
+  transition-duration: 100ms;
+}
+.button:disabled { box-shadow: none; }
+.button { position: relative; isolation: isolate; }
+.button:before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(180deg, #ffffff24, #ffffff00);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 180ms var(--ease-flow);
+}
+.button:not(:disabled):hover:before { opacity: .5; }
+.button:not(:disabled):active:before { opacity: 1; transition-duration: 90ms; }
+.mobile-toggle span { transition: transform 240ms var(--ease-settle); }
+
+/* Stable product artwork also avoids repainting large blended image layers. */
+.product-image img, .category-art img, .category-row > img { transition: none; }
+.product-image:hover img, .product-card:hover .product-image img,
+.category-tile:hover img, .category-tile:hover .category-art img,
+.category-row:hover > img { transform: none; }
+.product-image, .category-row { transition: border-color 180ms var(--ease-flow); }
+.text-link, .card-link, .category-label { transition: color 180ms var(--ease-flow), border-color 180ms var(--ease-flow); }
+.site-header nav a:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 6px;
+  width: 24px;
+  height: 3px;
+  background: currentColor;
+  opacity: 0;
+  transform: scaleX(.5);
+  transform-origin: left;
+  transition: transform 220ms var(--ease-settle), opacity 180ms var(--ease-flow);
+}
+.site-header nav a.active:after, .site-header nav a:hover:after, .site-header nav a:focus-visible:after { opacity: 1; transform: scaleX(1); }
+
+summary:after, details[open] > summary:after {
+  content: '';
+  width: 12px;
+  height: 2px;
+  top: 50%;
+  right: 4px;
+  margin-top: -1px;
+  background: currentColor;
+}
+summary:before {
+  content: '';
+  position: absolute;
+  width: 2px;
+  height: 12px;
+  top: 50%;
+  right: 9px;
+  margin-top: -6px;
+  background: currentColor;
+  transition: transform 220ms var(--ease-settle), opacity 160ms var(--ease-flow);
+}
+details[open] > summary:before { transform: rotate(90deg); opacity: 0; }
+
+.footer-socials { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-top: 8px; }
+.footer-main .social-link, .footer-main a.social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 46px;
+  margin: 0;
+  padding: 10px 13px;
+  border: 1px solid #b8c8ac;
+  border-radius: 999px;
+  color: var(--green);
+  font-size: .8125rem;
+  font-weight: 700;
+  line-height: 1.3;
+  text-decoration: none;
+  transition: background-color 180ms var(--ease-flow), border-color 180ms var(--ease-flow), transform var(--motion-settle) var(--ease-settle);
+}
+.social-link svg { width: 19px; height: 19px; flex: 0 0 19px; }
+.social-link-label { display: flex; flex-direction: column; gap: 3px; }
+.social-link-label small { font-size: .65rem; font-weight: 500; }
+.footer-main .social-link--unavailable { color: #52654b; border-style: dashed; }
+.footer-main a.social-link:hover { text-decoration: none; }
+.footer-main a.social-link:active { transform: translateY(1px); transition-duration: 100ms; }
+.gallery-status:not(.sr-only) { color: var(--muted); font-size: .875rem; margin-top: 12px; }
+
+/* Indeterminate loading feedback, not a fabricated percentage. */
+.page-progress {
+  position: fixed;
+  inset: 0 0 auto;
+  height: 3px;
+  z-index: 1000;
+  overflow: hidden;
+  pointer-events: none;
+  background: #153e2d12;
+  opacity: 1;
+  transition: opacity 180ms ease;
+  contain: strict;
+}
+.page-progress > span {
+  display: block;
+  width: 40%;
+  height: 100%;
+  background: linear-gradient(90deg, #153e2d 0%, #477343 78%, #c5a366 100%);
+  transform-origin: left;
+  animation: page-progress-travel 1250ms cubic-bezier(.4, 0, .2, 1) infinite;
+}
+.page-progress.is-complete { opacity: 0; transition-delay: 60ms; }
+.page-progress.is-complete > span { animation: none; width: 100%; transform: none; }
+@keyframes page-progress-travel {
+  from { transform: translateX(-105%); }
+  to { transform: translateX(255%); }
+}
+
+/* Native transitions enhance same-origin navigation in supporting browsers.
+   The header stays stable; only the content dissolves, with no layout tween. */
+@view-transition { navigation: auto; }
+:root { view-transition-name: none; }
+#main { view-transition-name: page-content; }
+::view-transition-group(page-content) { animation: none; }
+::view-transition-old(page-content) { animation: page-content-out 120ms ease-out both; }
+::view-transition-new(page-content) { animation: page-content-in 260ms var(--ease-settle) both; }
+::view-transition { pointer-events: none; }
+@keyframes page-content-out { to { opacity: 0; } }
+@keyframes page-content-in { from { opacity: 0; } to { opacity: 1; } }
+
+@media (hover: hover) and (pointer: fine) {
+  .button:not(:disabled):hover { transform: translateY(-1px); }
+  .button:not(:disabled):active { transform: translateY(1px); }
+  .thumbnail:not(.selected):hover { border-color: var(--green); }
+  .footer-main a.social-link:hover { background: #ffffff70; border-color: #6e8963; }
+}
+
+/* Content is readable without animation or JavaScript. */
+@media (prefers-reduced-motion: reduce) {
+  @view-transition { navigation: none; }
+  #main { view-transition-name: none; }
+  .page-progress > span { animation: none; transform: none; width: 100%; }
+  ::view-transition-old(page-content), ::view-transition-new(page-content) { animation: none; }
+  *, *:before, *:after { scroll-behavior: auto !important; transition: none !important; animation: none !important; }
+  .button:hover, .button:active, .thumbnail:hover, .thumbnail:active,
+  .category-chips a:active, a.pack-option:active, .mobile-toggle:active,
+  .footer-main a.social-link:hover, .footer-main a.social-link:active { transform: none !important; }
+}

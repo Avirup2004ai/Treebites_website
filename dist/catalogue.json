@@ -1,0 +1,308 @@
+{
+  "brand": "TreeBites",
+  "website": "https://tree-bites.com/",
+  "language": "en-IN",
+  "ordering": "This website is a product catalogue. Retailers handle prices, availability, payment, shipping and returns.",
+  "products": [
+    {
+      "name": "Moringa Capsules",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/moringa-capsules/",
+      "category": "Supplements & fibre",
+      "packSize": "30 capsules",
+      "description": "Moringa in a convenient capsule format. Read the product label for ingredients, directions and suitability.",
+      "usage": "Use only as directed on the pack. Check the product label before use.",
+      "image": "https://tree-bites.com/assets/images/TB-01-pack-1000.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-moringa-capsules-30-capsules-plant-based-nutritional-supplement?variant=53890295791909",
+        "amazon": "https://www.amazon.in/dp/B0HKTDX67Y"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Sattu Protein Mix",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/sattu-protein-mix/",
+      "category": "Breakfast & drink mixes",
+      "packSize": "50 g",
+      "description": "An easy-to-mix sattu and seed blend for your everyday drink routine.",
+      "usage": "Prepare with water or milk, following the quantities and directions on the pack.",
+      "image": "https://tree-bites.com/assets/images/TB-02-pack-1000.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-sattu-protein-mix-instant-nutrition-drink-mix-50g?variant=53853035823397",
+        "amazon": "https://www.amazon.in/dp/B0HK8MJRMW"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Nolen Gur · Two Pack",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/nolen-gur-two-pack/",
+      "category": "Kitchen staples",
+      "packSize": "2 × 250 g",
+      "description": "Two jars of Bengali date palm jaggery. A familiar sweetness for desserts, warm milk and favourite recipes.",
+      "usage": "Use in payesh, desserts or drinks to taste. Follow storage instructions on the jar.",
+      "image": "https://tree-bites.com/assets/images/TB-03-pack-1000.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-nolen-gur-date-palm-jaggery-traditional-bengali-khejur-gur-pack-of-2-x-250-g?variant=53818710458661",
+        "amazon": null
+      },
+      "amazonLinkStatus": "Exact product or pack link awaiting confirmation"
+    },
+    {
+      "name": "Isabgol Psyllium Husk",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/isabgol/",
+      "category": "Supplements & fibre",
+      "packSize": "100 g",
+      "description": "Psyllium husk in a resealable pack. Check the product label for preparation and serving directions.",
+      "usage": "Follow the pack directions, including the recommended amount of liquid.",
+      "image": "https://tree-bites.com/assets/images/TB-04-pack-1000.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-isabgol-psyllium-husk-pure-natural-high-fiber-100-g?variant=53818698563877",
+        "amazon": "https://www.amazon.in/dp/B0HJP447JN"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Healthy Mix",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/healthy-mix/",
+      "category": "Seeds & seed mixes",
+      "packSize": "200 g",
+      "description": "Pumpkin, sunflower, flax and sesame seeds come together in one versatile blend. A little texture for the things you love to eat.",
+      "usage": "Sprinkle over breakfast bowls, yogurt and salads. Store as directed on the pack. Contains sesame.",
+      "image": "https://tree-bites.com/assets/images/TB-05-pack-1000.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-healthy-mix-premium-seed-blend-pumpkin-sunflower-flax-sesame-seeds-200-g?variant=53815466787109",
+        "amazon": null
+      },
+      "amazonLinkStatus": "Exact product or pack link awaiting confirmation"
+    },
+    {
+      "name": "Nolen Gur Coconut Chill",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/nolen-gur-coconut-chill/",
+      "category": "Juices & beverages",
+      "packSize": "200 ml",
+      "description": "Coconut meets the familiar sweetness of nolen gur in a Bengali-inspired bottled drink.",
+      "usage": "Serve chilled. Shake gently before opening and follow the storage instructions on the bottle.",
+      "image": "https://tree-bites.com/assets/images/TB-06-pack-1000.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebite-nolen-gur-coconut-chill-200-ml?variant=53755914682661",
+        "amazon": "https://www.amazon.in/dp/B0HJMK2DST"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Mosambi & Lemon Juice",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/mosambi-lemon-juice/",
+      "category": "Juices & beverages",
+      "packSize": "100 ml",
+      "description": "A citrus combination of mosambi and lemon for a refreshing moment in your day.",
+      "usage": "Follow the serving and refrigeration instructions on the bottle.",
+      "image": "https://tree-bites.com/assets/images/TB-07-pack-1000.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebite-mozombe-mosambi-lebur-juice-100-ml?variant=53745134108965",
+        "amazon": null
+      },
+      "amazonLinkStatus": "Exact product or pack link awaiting confirmation"
+    },
+    {
+      "name": "Pineapple Fruit Beer Juice",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/pineapple-fruit-beer-juice/",
+      "category": "Juices & beverages",
+      "packSize": "200 ml",
+      "description": "Discover the pineapple variety in the TreeBites Fruit Beer Juice range.",
+      "usage": "Check the bottle for ingredients, preparation and storage instructions.",
+      "image": "https://tree-bites.com/assets/images/TB-08-pack-1000.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebite-pineapple-fruit-beer-juice-250-ml?variant=53745132634405",
+        "amazon": null
+      },
+      "amazonLinkStatus": "Exact product or pack link awaiting confirmation"
+    },
+    {
+      "name": "Watermelon Fruit Beer Juice",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/watermelon-fruit-beer-juice/",
+      "category": "Juices & beverages",
+      "packSize": "100 ml",
+      "description": "Discover the watermelon variety in the TreeBites Fruit Beer Juice range.",
+      "usage": "Check the bottle for ingredients, preparation and storage instructions.",
+      "image": "https://tree-bites.com/assets/images/TB-09-pack-1000.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebite-watermelon-fruit-beer-juice-100-ml?variant=53745128702245",
+        "amazon": "https://www.amazon.in/dp/B0HJMP8Y9Q"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Carrot & Apple Fruit Beer Juice",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/carrot-apple-fruit-beer-juice/",
+      "category": "Juices & beverages",
+      "packSize": "100 ml",
+      "description": "Carrot and apple come together in this bottled blend from the TreeBites Fruit Beer Juice range.",
+      "usage": "Check the bottle for ingredients, preparation and storage instructions.",
+      "image": "https://tree-bites.com/assets/images/TB-10-pack-1000.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebite-carrot-apple-fruit-beer-juice-100-ml?variant=53745120575781",
+        "amazon": "https://www.amazon.in/dp/B0HJMXR9Y7"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Carrot, Beetroot, Ginger & Lemon",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/carrot-beetroot-ginger-lemon/",
+      "category": "Juices & beverages",
+      "packSize": "100 ml",
+      "description": "A colourful juice combination of carrot, beetroot, ginger and lemon.",
+      "usage": "Follow the serving and refrigeration instructions on the bottle.",
+      "image": "https://tree-bites.com/assets/images/TB-11-pack-1000.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-carrot-beetroot-ginger-lemon-cold-pressed-healthy-juice-100-ml?variant=53745098719525",
+        "amazon": "https://www.amazon.in/dp/B0HJMM4RMF"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Nolen Gur",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/nolen-gur/",
+      "category": "Kitchen staples",
+      "packSize": "250 g",
+      "description": "Bengali date palm jaggery, with its distinctive sweetness. Bring a familiar flavour to desserts, drinks and everyday recipes.",
+      "usage": "Use in payesh, desserts or drinks to taste. Follow storage instructions on the jar.",
+      "image": "https://tree-bites.com/assets/images/TB-12-detail-900.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-nolen-gur-traditional-bengali-date-palm-jaggery-natural-sweetener-250-g?variant=53719201579301",
+        "amazon": null
+      },
+      "amazonLinkStatus": "Exact product or pack link awaiting confirmation"
+    },
+    {
+      "name": "Flax Seeds",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/flax-seeds/",
+      "category": "Seeds & seed mixes",
+      "packSize": "250 g",
+      "description": "A versatile pantry addition with a subtly nutty flavour. Explore new ways to enjoy your breakfast bowls and bakes.",
+      "usage": "Use according to the pack directions. Store in a cool, dry place and reseal after opening.",
+      "image": "https://tree-bites.com/assets/images/TB-13-detail-900.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-premium-flax-seeds-natural-nutritious?variant=53656120688933",
+        "amazon": "https://www.amazon.in/dp/B0HHZCFQQV"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Chia Seeds",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/chia-seeds/",
+      "category": "Seeds & seed mixes",
+      "packSize": "250 g",
+      "description": "Small seeds for your daily rituals. Add soaked chia to breakfast bowls, smoothies and yogurt.",
+      "usage": "Soak before consumption, following the pack directions. Store as instructed on the label.",
+      "image": "https://tree-bites.com/assets/images/TB-14-detail-900.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-premium-chia-seeds-natural-nutritious?variant=53656100503845",
+        "amazon": "https://www.amazon.in/dp/B0HHXSJTFR"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/pumpkin-seeds/",
+      "category": "Seeds & seed mixes",
+      "packSize": "250 g",
+      "description": "A satisfying crunch for salads, breakfast bowls and your favourite recipes.",
+      "usage": "Enjoy according to the pack directions. Reseal after opening and store as instructed.",
+      "image": "https://tree-bites.com/assets/images/TB-15-detail-900.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-premium-pumpkin-seeds-natural-nutritious?variant=53656091296037",
+        "amazon": "https://www.amazon.in/dp/B0HJMPGZZN"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Sunflower Seeds",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/sunflower-seeds/",
+      "category": "Seeds & seed mixes",
+      "packSize": "250 g",
+      "description": "A pantry staple for adding texture to salads, bakes and everyday meals.",
+      "usage": "Use according to the pack directions. Store in a cool, dry place and reseal after opening.",
+      "image": "https://tree-bites.com/assets/images/TB-16-detail-900.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-premium-sunflower-seeds-250g-natural-plant-based-nutrition-rich-in-vitamin-e-protein-healthy-fats-crunchy-nutritious-snack?variant=53656087298341",
+        "amazon": "https://www.amazon.in/dp/B0HJHRDVY2"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Pure Ghee",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/pure-ghee/",
+      "category": "Kitchen staples",
+      "packSize": "250 g",
+      "description": "Traditional clarified butter for your everyday kitchen. Add its rich flavour to warm rice, rotis and favourite recipes.",
+      "usage": "Use in cooking or add to warm food to taste. Contains milk. Follow the storage instructions on the jar.",
+      "image": "https://tree-bites.com/assets/images/TB-17-detail-900.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-pure-ghee-250g?variant=53598685888805",
+        "amazon": "https://www.amazon.in/dp/B0HJP46LX6"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Raw Turmeric · Kacchi Haldi",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/raw-turmeric/",
+      "category": "Kitchen staples",
+      "packSize": "200 g",
+      "description": "Raw turmeric for the kitchen. Bring its distinctive colour and flavour to your everyday cooking.",
+      "usage": "Wash and prepare before use. Follow the storage instructions provided with the product.",
+      "image": "https://tree-bites.com/assets/images/TB-18-pack-1000.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-raw-turmeric-kacchi-haldi-200g?variant=53719182442789",
+        "amazon": "https://www.amazon.in/dp/B0HJP4C8ZT"
+      },
+      "amazonLinkStatus": "linked"
+    },
+    {
+      "name": "Sattu Protein Mix · 150 g",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/sattu-protein-mix-150g/",
+      "category": "Breakfast & drink mixes",
+      "packSize": "150 g",
+      "description": "A larger pack of TreeBites Sattu Protein Mix for your breakfast and drink routine.",
+      "usage": "Prepare according to the directions on the pack. Check the label for the complete ingredient list.",
+      "image": "https://tree-bites.com/assets/images/TB-19-pack-900.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-sattu-protein-mix-plant-based-nutrition-breakfast-mix-150g?variant=53902797537573",
+        "amazon": null
+      },
+      "amazonLinkStatus": "Exact product or pack link awaiting confirmation"
+    },
+    {
+      "name": "Shilajit Capsules",
+      "brand": "TreeBites",
+      "url": "https://tree-bites.com/products/shilajit-capsules/",
+      "category": "Supplements & fibre",
+      "packSize": "30 capsules",
+      "description": "Shilajit in a capsule format. Check the complete product label for ingredients, directions and suitability.",
+      "usage": "Use only as directed on the pack. Read all label precautions before use.",
+      "image": "https://tree-bites.com/assets/images/TB-20-pack-900.webp",
+      "retailers": {
+        "fashinoworld": "https://fashinoworld.com/products/treebites-shilajit-capsules-30-capsules-natural-wellness-supplement?variant=53902758478117",
+        "amazon": null
+      },
+      "amazonLinkStatus": "Exact product or pack link awaiting confirmation"
+    }
+  ]
+}

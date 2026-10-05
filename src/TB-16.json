@@ -1,0 +1,169 @@
+{
+  "id": 10637108773157,
+  "title": "TreeBites Premium Sunflower Seeds 250g | Natural Plant-Based Nutrition | Rich in Vitamin E, Protein & Healthy Fats | Crunchy & Nutritious Snack",
+  "handle": "treebites-premium-sunflower-seeds-250g-natural-plant-based-nutrition-rich-in-vitamin-e-protein-healthy-fats-crunchy-nutritious-snack",
+  "description": "<p class=\"PDq2pG_selectionAnchorContainer\"><strong>Nourishing Roots, Enriching Lives.</strong><span class=\"PDq2pG_selectionAnchor\"></span></p>\n<p>Discover the natural goodness of <strong>TreeBites Sunflower Seeds</strong>, carefully packed to bring wholesome nutrition and satisfying crunch to your everyday diet. These premium-quality sunflower seeds are naturally rich in <strong>Vitamin E, protein, healthy fats, magnesium, fibre and antioxidants</strong>, making them a versatile addition to your daily meals and snacks.</p>\n<p>Enjoy them straight from the pack or add them to <strong>salads, smoothies, oatmeal, yogurt and baked recipes</strong> for an easy nutritional boost.</p>\n<p><strong>Key Highlights:</strong></p>\n<ul>\n<li>Premium-quality sunflower seeds</li>\n<li>Rich in Vitamin E and healthy fats</li>\n<li>Contains plant-based protein and magnesium</li>\n<li>Good source of dietary fibre</li>\n<li>Naturally crunchy and versatile</li>\n<li>Easy to add to everyday meals and snacks</li>\n<li><strong>Net Quantity: 250 g</strong></li>\n<li>Packed with care for purity</li>\n</ul>\n<p><strong>TreeBites — One Small Seed, Many Big Benefits.</strong></p>",
+  "published_at": "2026-08-23T18:37:18+05:30",
+  "created_at": "2026-08-23T18:37:16+05:30",
+  "vendor": "TreeBites",
+  "type": "Sunflower Seeds",
+  "tags": [
+    "250g",
+    "antioxidants",
+    "fiber",
+    "healthy fats",
+    "healthy snacks",
+    "magnesium",
+    "natural snacks",
+    "plant based",
+    "premium seeds",
+    "protein rich",
+    "seeds",
+    "sunflower seeds",
+    "TreeBites",
+    "vitamin e"
+  ],
+  "price": 14900,
+  "price_min": 14900,
+  "price_max": 14900,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 53656087298341,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "FW-SFS-250G-001",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TreeBites Premium Sunflower Seeds 250g | Natural Plant-Based Nutrition | Rich in Vitamin E, Protein & Healthy Fats | Crunchy & Nutritious Snack",
+      "public_title": null,
+      "options": [
+        "Default Title"
+      ],
+      "price": 14900,
+      "weight": 250,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3239.png?v=1788244291",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/ChatGPT_Image_Aug_23_2026_10_20_32_AM.png?v=1787491033",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3238_1.png?v=1788244291",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/ChatGPTImageAug23_2026_10_26_07AM.png?v=1787489912",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/ChatGPTImageAug23_2026_10_31_56AM.png?v=1787489911"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3239.png?v=1788244291",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "url": "/products/treebites-premium-sunflower-seeds-250g-natural-plant-based-nutrition-rich-in-vitamin-e-protein-healthy-fats-crunchy-nutritious-snack",
+  "media": [
+    {
+      "alt": null,
+      "id": 58317522993445,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3239.png?v=1788244291"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3239.png?v=1788244291",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58254000521509,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/ChatGPT_Image_Aug_23_2026_10_20_32_AM.png?v=1787491033"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/ChatGPT_Image_Aug_23_2026_10_20_32_AM.png?v=1787491033",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58317523026213,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3238_1.png?v=1788244291"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3238_1.png?v=1788244291",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58253961363749,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/ChatGPTImageAug23_2026_10_26_07AM.png?v=1787489912"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/ChatGPTImageAug23_2026_10_26_07AM.png?v=1787489912",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58253961330981,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/ChatGPTImageAug23_2026_10_31_56AM.png?v=1787489911"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/ChatGPTImageAug23_2026_10_31_56AM.png?v=1787489911",
+      "width": 1254
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

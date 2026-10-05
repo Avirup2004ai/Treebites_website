@@ -1,0 +1,17 @@
+# TreeBites public pages are open to search engines and AI crawlers.
+# The wildcard includes Googlebot, Bingbot, OAI-SearchBot, ChatGPT-User,
+# GPTBot, ClaudeBot, Claude-SearchBot, Claude-User, PerplexityBot,
+# Perplexity-User, Applebot, Google-Extended and other compliant crawlers.
+User-agent: *
+Allow: /
+Disallow: /src/
+Disallow: /scripts/
+Disallow: /node_modules/
+Disallow: /dist/
+Disallow: /outputs/
+Disallow: /work/
+Disallow: /.git/
+Disallow: /.openai/
+Disallow: /.cache/
+
+Sitemap: https://tree-bites.com/sitemap.xml

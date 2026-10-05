@@ -1,0 +1,322 @@
+# TreeBites
+
+> TreeBites food and nutrition catalogue: seeds and seed mixes, kitchen staples, juices and beverages, breakfast and drink mixes, supplements and fibre.
+
+Website: https://tree-bites.com/
+
+This is a brand portfolio and product catalogue. Orders are completed on Amazon or Fashinoworld. Current prices, stock, shipping and returns are determined by the retailer. Product pack sizes are stated on each product page; some Amazon links remain unavailable until the exact pack is confirmed.
+
+## Main pages
+
+- [Home](https://tree-bites.com/)
+- [Our story and about TreeBites](https://tree-bites.com/our-story/)
+- [All products](https://tree-bites.com/products/)
+- [Categories](https://tree-bites.com/categories/)
+- [HTML sitemap](https://tree-bites.com/sitemap/)
+- [Structured product catalogue](https://tree-bites.com/catalogue.json)
+- [Complete readable catalogue](https://tree-bites.com/llms-full.txt)
+
+## Categories
+
+- [Seeds & seed mixes](https://tree-bites.com/categories/seeds-and-mixes/): A little crunch for breakfast bowls, snacks and everything in between.
+- [Kitchen staples](https://tree-bites.com/categories/kitchen-staples/): Nolen gur, ghee and turmeric for the recipes you come back to.
+- [Juices & beverages](https://tree-bites.com/categories/juices-and-beverages/): Fruit blends and Bengali-inspired flavours, bottled for your day.
+- [Breakfast & drink mixes](https://tree-bites.com/categories/breakfast-and-drink-mixes/): Discover a sattu blend for your daily drink routine.
+- [Supplements & fibre](https://tree-bites.com/categories/supplements-and-fibre/): Discover moringa capsules and isabgol. Always follow the product label.
+
+## Products
+
+- [Moringa Capsules — 30 capsules](https://tree-bites.com/products/moringa-capsules/): Moringa in a convenient capsule format. Read the product label for ingredients, directions and suitability.
+- [Sattu Protein Mix — 50 g](https://tree-bites.com/products/sattu-protein-mix/): An easy-to-mix sattu and seed blend for your everyday drink routine.
+- [Nolen Gur · Two Pack — 2 × 250 g](https://tree-bites.com/products/nolen-gur-two-pack/): Two jars of Bengali date palm jaggery. A familiar sweetness for desserts, warm milk and favourite recipes.
+- [Isabgol Psyllium Husk — 100 g](https://tree-bites.com/products/isabgol/): Psyllium husk in a resealable pack. Check the product label for preparation and serving directions.
+- [Healthy Mix — 200 g](https://tree-bites.com/products/healthy-mix/): Pumpkin, sunflower, flax and sesame seeds come together in one versatile blend. A little texture for the things you love to eat.
+- [Nolen Gur Coconut Chill — 200 ml](https://tree-bites.com/products/nolen-gur-coconut-chill/): Coconut meets the familiar sweetness of nolen gur in a Bengali-inspired bottled drink.
+- [Mosambi & Lemon Juice — 100 ml](https://tree-bites.com/products/mosambi-lemon-juice/): A citrus combination of mosambi and lemon for a refreshing moment in your day.
+- [Pineapple Fruit Beer Juice — 200 ml](https://tree-bites.com/products/pineapple-fruit-beer-juice/): Discover the pineapple variety in the TreeBites Fruit Beer Juice range.
+- [Watermelon Fruit Beer Juice — 100 ml](https://tree-bites.com/products/watermelon-fruit-beer-juice/): Discover the watermelon variety in the TreeBites Fruit Beer Juice range.
+- [Carrot & Apple Fruit Beer Juice — 100 ml](https://tree-bites.com/products/carrot-apple-fruit-beer-juice/): Carrot and apple come together in this bottled blend from the TreeBites Fruit Beer Juice range.
+- [Carrot, Beetroot, Ginger & Lemon — 100 ml](https://tree-bites.com/products/carrot-beetroot-ginger-lemon/): A colourful juice combination of carrot, beetroot, ginger and lemon.
+- [Nolen Gur — 250 g](https://tree-bites.com/products/nolen-gur/): Bengali date palm jaggery, with its distinctive sweetness. Bring a familiar flavour to desserts, drinks and everyday recipes.
+- [Flax Seeds — 250 g](https://tree-bites.com/products/flax-seeds/): A versatile pantry addition with a subtly nutty flavour. Explore new ways to enjoy your breakfast bowls and bakes.
+- [Chia Seeds — 250 g](https://tree-bites.com/products/chia-seeds/): Small seeds for your daily rituals. Add soaked chia to breakfast bowls, smoothies and yogurt.
+- [Pumpkin Seeds — 250 g](https://tree-bites.com/products/pumpkin-seeds/): A satisfying crunch for salads, breakfast bowls and your favourite recipes.
+- [Sunflower Seeds — 250 g](https://tree-bites.com/products/sunflower-seeds/): A pantry staple for adding texture to salads, bakes and everyday meals.
+- [Pure Ghee — 250 g](https://tree-bites.com/products/pure-ghee/): Traditional clarified butter for your everyday kitchen. Add its rich flavour to warm rice, rotis and favourite recipes.
+- [Raw Turmeric · Kacchi Haldi — 200 g](https://tree-bites.com/products/raw-turmeric/): Raw turmeric for the kitchen. Bring its distinctive colour and flavour to your everyday cooking.
+- [Sattu Protein Mix · 150 g — 150 g](https://tree-bites.com/products/sattu-protein-mix-150g/): A larger pack of TreeBites Sattu Protein Mix for your breakfast and drink routine.
+- [Shilajit Capsules — 30 capsules](https://tree-bites.com/products/shilajit-capsules/): Shilajit in a capsule format. Check the complete product label for ingredients, directions and suitability.
+
+## Brand contact
+
+- Email: contact.fashino@gmail.com
+- Instagram: https://www.instagram.com/treebites.official/
+- Location: Kolkata, India
+
+Product labels and retailer pages provide complete ingredients, allergens, nutrition, preparation and storage details. This catalogue does not provide medical advice or certify health outcomes.
+
+## About TreeBites
+
+Home / Our story OUR STORY · ABOUT TREEBITES Familiar roots. Everyday goodness. TreeBites brings everyday ingredients, Bengali flavours and food discoveries together. From a handful of seeds to a spoonful of nolen gur, our collection belongs in the little rituals that make a day your own. Discover our products A TASTE OF THE FAMILIAR Nolen gur. A little sweetness, a lot of character. In our catalogue 20 products Ways to explore 5 categories Brand contact Kolkata, India GET TO KNOW US The brand Our flavours Our range Product information Where to buy Get in touch 01 / THE BRAND Good food. Everyday moments. A breakfast bowl with a little more crunch. A familiar recipe with its finishing spoonful of ghee. A refreshing pause between the things you do. That is the world of TreeBites: ingredients and flavours you can make part of your own routine. Our food and nutrition collection spans seeds and seed mixes, kitchen staples, juices and beverages, breakfast and drink mixes, and supplements and fibre. Our brand line, “Nourishing roots. Enriching lives.” , sits alongside a collection that brings familiar food traditions and everyday choices into the same place. Browse by ingredient, by category or by the product you already love. 02 / FAMILIAR FLAVOURS A little taste of Bengal. Some flavours feel instantly familiar. Nolen gur is one of them. Our Nolen Gur brings Bengali date palm jaggery to desserts, drinks and favourite recipes. Explore a single jar or the two-pack, depending on what you need in your kitchen. The same flavour appears in a different format in Nolen Gur Coconut Chill , where coconut meets nolen gur in a bottled drink. Alongside these Bengali-inspired products, Pure Ghee and Raw Turmeric make up the rest of our kitchen-staples collection. Explore the kitchen staples 03 / OUR RANGE Five ways to find your kind of good. Get to know what is in the TreeBites collection. 01 Seeds & seed mixes Pumpkin, sunflower, chia and flax seeds, alongside Healthy Mix. Explore individual seeds and a blend of pumpkin, sunflower, flax and sesame for breakfast bowls, salads and everyday recipes. Explore 5 products in Seeds & seed mixes 02 Kitchen staples Bengali nolen gur, pure ghee and raw turmeric. Familiar ingredients for cooking, finishing a meal or bringing a distinctive flavour to a favourite dessert. Explore 4 products in Kitchen staples 03 Juices & beverages Explore mosambi and lemon, carrot and apple, watermelon, pineapple, and carrot, beetroot, ginger and lemon combinations, alongside Nolen Gur Coconut Chill. Explore 6 products in Juices & beverages 04 Breakfast & drink mixes Sattu Protein Mix in two pack sizes. Discover the blend, compare the packs and follow the preparation directions on the label. Explore 2 products in Breakfast & drink mixes 05 Supplements & fibre Moringa Capsules, Shilajit Capsules and Isabgol Psyllium Husk. Each product has its own directions and suitability information; refer to its label before use. Explore 3 products in Supplements & fibre 04 / KNOW YOUR PRODUCT The details matter. Every product page on this website brings together the product name, pack size, imagery, an introduction and directions for everyday use. Where a product comes in different packs, you can explore the available options. For the complete ingredients, nutrition information, allergens, best-before date and storage instructions, refer to the actual product label and the retailer’s listing. Packaging and availability may change. Products in our supplements and fibre collection have their own preparation and usage directions. Always follow the instructions and precautions on the pack. Find a product and its details 05 / WHERE TO BUY Meet it here. Make it yours. Use this website to explore TreeBites and choose your product. On its page, select Order on Amazon or Order on Website to open the linked product or pack at your chosen retailer. Website orders open on Fashinoworld. Your retailer shows the current price, stock and delivery options, and handles payment, shipping, order support and returns. Some Amazon buttons remain unavailable while the matching product or pack is being confirmed. Find your favourite 06 / GET IN TOUCH Let’s talk TreeBites. For brand and product enquiries, contact the TreeBites team by email. Follow our official Instagram profile to stay connected with the brand. Kolkata, India contact.fashino@gmail.com Instagram · @treebites.official (opens in a new tab) For an existing order, contact the retailer you purchased from with your order details.
+
+## Product details
+
+### Moringa Capsules
+
+Page: https://tree-bites.com/products/moringa-capsules/
+Category: Supplements & fibre
+Pack size: 30 capsules
+
+Moringa in a convenient capsule format. Read the product label for ingredients, directions and suitability.
+
+Directions: Use only as directed on the pack. Check the product label before use.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-moringa-capsules-30-capsules-plant-based-nutritional-supplement?variant=53890295791909
+Amazon: https://www.amazon.in/dp/B0HKTDX67Y
+
+### Sattu Protein Mix
+
+Page: https://tree-bites.com/products/sattu-protein-mix/
+Category: Breakfast & drink mixes
+Pack size: 50 g
+
+An easy-to-mix sattu and seed blend for your everyday drink routine.
+
+Directions: Prepare with water or milk, following the quantities and directions on the pack.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-sattu-protein-mix-instant-nutrition-drink-mix-50g?variant=53853035823397
+Amazon: https://www.amazon.in/dp/B0HK8MJRMW
+
+### Nolen Gur · Two Pack
+
+Page: https://tree-bites.com/products/nolen-gur-two-pack/
+Category: Kitchen staples
+Pack size: 2 × 250 g
+
+Two jars of Bengali date palm jaggery. A familiar sweetness for desserts, warm milk and favourite recipes.
+
+Directions: Use in payesh, desserts or drinks to taste. Follow storage instructions on the jar.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-nolen-gur-date-palm-jaggery-traditional-bengali-khejur-gur-pack-of-2-x-250-g?variant=53818710458661
+Amazon: Exact product or pack link awaiting confirmation.
+
+### Isabgol Psyllium Husk
+
+Page: https://tree-bites.com/products/isabgol/
+Category: Supplements & fibre
+Pack size: 100 g
+
+Psyllium husk in a resealable pack. Check the product label for preparation and serving directions.
+
+Directions: Follow the pack directions, including the recommended amount of liquid.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-isabgol-psyllium-husk-pure-natural-high-fiber-100-g?variant=53818698563877
+Amazon: https://www.amazon.in/dp/B0HJP447JN
+
+### Healthy Mix
+
+Page: https://tree-bites.com/products/healthy-mix/
+Category: Seeds & seed mixes
+Pack size: 200 g
+
+Pumpkin, sunflower, flax and sesame seeds come together in one versatile blend. A little texture for the things you love to eat.
+
+Directions: Sprinkle over breakfast bowls, yogurt and salads. Store as directed on the pack. Contains sesame.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-healthy-mix-premium-seed-blend-pumpkin-sunflower-flax-sesame-seeds-200-g?variant=53815466787109
+Amazon: Exact product or pack link awaiting confirmation.
+
+### Nolen Gur Coconut Chill
+
+Page: https://tree-bites.com/products/nolen-gur-coconut-chill/
+Category: Juices & beverages
+Pack size: 200 ml
+
+Coconut meets the familiar sweetness of nolen gur in a Bengali-inspired bottled drink.
+
+Directions: Serve chilled. Shake gently before opening and follow the storage instructions on the bottle.
+
+Fashinoworld: https://fashinoworld.com/products/treebite-nolen-gur-coconut-chill-200-ml?variant=53755914682661
+Amazon: https://www.amazon.in/dp/B0HJMK2DST
+
+### Mosambi & Lemon Juice
+
+Page: https://tree-bites.com/products/mosambi-lemon-juice/
+Category: Juices & beverages
+Pack size: 100 ml
+
+A citrus combination of mosambi and lemon for a refreshing moment in your day.
+
+Directions: Follow the serving and refrigeration instructions on the bottle.
+
+Fashinoworld: https://fashinoworld.com/products/treebite-mozombe-mosambi-lebur-juice-100-ml?variant=53745134108965
+Amazon: Exact product or pack link awaiting confirmation.
+
+### Pineapple Fruit Beer Juice
+
+Page: https://tree-bites.com/products/pineapple-fruit-beer-juice/
+Category: Juices & beverages
+Pack size: 200 ml
+
+Discover the pineapple variety in the TreeBites Fruit Beer Juice range.
+
+Directions: Check the bottle for ingredients, preparation and storage instructions.
+
+Fashinoworld: https://fashinoworld.com/products/treebite-pineapple-fruit-beer-juice-250-ml?variant=53745132634405
+Amazon: Exact product or pack link awaiting confirmation.
+
+### Watermelon Fruit Beer Juice
+
+Page: https://tree-bites.com/products/watermelon-fruit-beer-juice/
+Category: Juices & beverages
+Pack size: 100 ml
+
+Discover the watermelon variety in the TreeBites Fruit Beer Juice range.
+
+Directions: Check the bottle for ingredients, preparation and storage instructions.
+
+Fashinoworld: https://fashinoworld.com/products/treebite-watermelon-fruit-beer-juice-100-ml?variant=53745128702245
+Amazon: https://www.amazon.in/dp/B0HJMP8Y9Q
+
+### Carrot & Apple Fruit Beer Juice
+
+Page: https://tree-bites.com/products/carrot-apple-fruit-beer-juice/
+Category: Juices & beverages
+Pack size: 100 ml
+
+Carrot and apple come together in this bottled blend from the TreeBites Fruit Beer Juice range.
+
+Directions: Check the bottle for ingredients, preparation and storage instructions.
+
+Fashinoworld: https://fashinoworld.com/products/treebite-carrot-apple-fruit-beer-juice-100-ml?variant=53745120575781
+Amazon: https://www.amazon.in/dp/B0HJMXR9Y7
+
+### Carrot, Beetroot, Ginger & Lemon
+
+Page: https://tree-bites.com/products/carrot-beetroot-ginger-lemon/
+Category: Juices & beverages
+Pack size: 100 ml
+
+A colourful juice combination of carrot, beetroot, ginger and lemon.
+
+Directions: Follow the serving and refrigeration instructions on the bottle.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-carrot-beetroot-ginger-lemon-cold-pressed-healthy-juice-100-ml?variant=53745098719525
+Amazon: https://www.amazon.in/dp/B0HJMM4RMF
+
+### Nolen Gur
+
+Page: https://tree-bites.com/products/nolen-gur/
+Category: Kitchen staples
+Pack size: 250 g
+
+Bengali date palm jaggery, with its distinctive sweetness. Bring a familiar flavour to desserts, drinks and everyday recipes.
+
+Directions: Use in payesh, desserts or drinks to taste. Follow storage instructions on the jar.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-nolen-gur-traditional-bengali-date-palm-jaggery-natural-sweetener-250-g?variant=53719201579301
+Amazon: Exact product or pack link awaiting confirmation.
+
+### Flax Seeds
+
+Page: https://tree-bites.com/products/flax-seeds/
+Category: Seeds & seed mixes
+Pack size: 250 g
+
+A versatile pantry addition with a subtly nutty flavour. Explore new ways to enjoy your breakfast bowls and bakes.
+
+Directions: Use according to the pack directions. Store in a cool, dry place and reseal after opening.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-premium-flax-seeds-natural-nutritious?variant=53656120688933
+Amazon: https://www.amazon.in/dp/B0HHZCFQQV
+
+### Chia Seeds
+
+Page: https://tree-bites.com/products/chia-seeds/
+Category: Seeds & seed mixes
+Pack size: 250 g
+
+Small seeds for your daily rituals. Add soaked chia to breakfast bowls, smoothies and yogurt.
+
+Directions: Soak before consumption, following the pack directions. Store as instructed on the label.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-premium-chia-seeds-natural-nutritious?variant=53656100503845
+Amazon: https://www.amazon.in/dp/B0HHXSJTFR
+
+### Pumpkin Seeds
+
+Page: https://tree-bites.com/products/pumpkin-seeds/
+Category: Seeds & seed mixes
+Pack size: 250 g
+
+A satisfying crunch for salads, breakfast bowls and your favourite recipes.
+
+Directions: Enjoy according to the pack directions. Reseal after opening and store as instructed.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-premium-pumpkin-seeds-natural-nutritious?variant=53656091296037
+Amazon: https://www.amazon.in/dp/B0HJMPGZZN
+
+### Sunflower Seeds
+
+Page: https://tree-bites.com/products/sunflower-seeds/
+Category: Seeds & seed mixes
+Pack size: 250 g
+
+A pantry staple for adding texture to salads, bakes and everyday meals.
+
+Directions: Use according to the pack directions. Store in a cool, dry place and reseal after opening.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-premium-sunflower-seeds-250g-natural-plant-based-nutrition-rich-in-vitamin-e-protein-healthy-fats-crunchy-nutritious-snack?variant=53656087298341
+Amazon: https://www.amazon.in/dp/B0HJHRDVY2
+
+### Pure Ghee
+
+Page: https://tree-bites.com/products/pure-ghee/
+Category: Kitchen staples
+Pack size: 250 g
+
+Traditional clarified butter for your everyday kitchen. Add its rich flavour to warm rice, rotis and favourite recipes.
+
+Directions: Use in cooking or add to warm food to taste. Contains milk. Follow the storage instructions on the jar.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-pure-ghee-250g?variant=53598685888805
+Amazon: https://www.amazon.in/dp/B0HJP46LX6
+
+### Raw Turmeric · Kacchi Haldi
+
+Page: https://tree-bites.com/products/raw-turmeric/
+Category: Kitchen staples
+Pack size: 200 g
+
+Raw turmeric for the kitchen. Bring its distinctive colour and flavour to your everyday cooking.
+
+Directions: Wash and prepare before use. Follow the storage instructions provided with the product.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-raw-turmeric-kacchi-haldi-200g?variant=53719182442789
+Amazon: https://www.amazon.in/dp/B0HJP4C8ZT
+
+### Sattu Protein Mix · 150 g
+
+Page: https://tree-bites.com/products/sattu-protein-mix-150g/
+Category: Breakfast & drink mixes
+Pack size: 150 g
+
+A larger pack of TreeBites Sattu Protein Mix for your breakfast and drink routine.
+
+Directions: Prepare according to the directions on the pack. Check the label for the complete ingredient list.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-sattu-protein-mix-plant-based-nutrition-breakfast-mix-150g?variant=53902797537573
+Amazon: Exact product or pack link awaiting confirmation.
+
+### Shilajit Capsules
+
+Page: https://tree-bites.com/products/shilajit-capsules/
+Category: Supplements & fibre
+Pack size: 30 capsules
+
+Shilajit in a capsule format. Check the complete product label for ingredients, directions and suitability.
+
+Directions: Use only as directed on the pack. Read all label precautions before use.
+
+Fashinoworld: https://fashinoworld.com/products/treebites-shilajit-capsules-30-capsules-natural-wellness-supplement?variant=53902758478117
+Amazon: Exact product or pack link awaiting confirmation.

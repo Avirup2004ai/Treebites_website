@@ -1,0 +1,198 @@
+{
+  "id": 10628324360485,
+  "title": "TreeBites Pure Ghee – Traditional Clarified Butter | 250 g",
+  "handle": "treebites-pure-ghee-250g",
+  "description": "<p><strong>TreeBites Pure Ghee</strong> is a traditional clarified butter crafted for everyday cooking and authentic Indian cuisine. Made from fresh curd and slow cooked, this ghee brings a rich aroma, smooth texture and traditional taste to your kitchen.</p><p>With its naturally golden appearance and versatile culinary use, TreeBites Pure Ghee can be used for cooking, frying, tempering, baking or simply added to traditional meals. Its classic flavour makes it suitable for a wide range of Indian dishes, from dal and rice to rotis, parathas, sweets and festive preparations.</p><p>The product is presented in a convenient <strong>250 g jar</strong>, making it suitable for regular household use while maintaining freshness and easy storage.</p><h3>Product Highlights</h3><ul>\n<li>Traditional clarified butter</li>\n<li>Made from fresh curd</li>\n<li>Pure and natural</li>\n<li>No additives or preservatives</li>\n<li>Rich aroma and authentic taste</li>\n<li>Suitable for everyday cooking</li>\n<li>Convenient 250 g pack</li>\n</ul><h3>Product Details</h3><p><strong>Brand:</strong> TreeBites<br><strong>Product:</strong> Pure Ghee<br><strong>Product Type:</strong> Ghee / Clarified Butter<br><strong>Net Quantity:</strong> 250 g<br><strong>Form:</strong> Semi-solid / clarified butter<br><strong>Packaging:</strong> Jar<br><strong>Cuisine:</strong> Indian<br><strong>Suitable For:</strong> Cooking, tempering, baking and traditional food preparation</p><p><strong>Package Contains:</strong> 1 × TreeBites Pure Ghee, 250 g</p>",
+  "published_at": "2026-08-16T01:30:38+05:30",
+  "created_at": "2026-08-16T01:30:23+05:30",
+  "vendor": "TreeBites",
+  "type": "Ghee",
+  "tags": [
+    "250g ghee",
+    "clarified butter",
+    "cooking essentials",
+    "cooking ghee",
+    "Dairy",
+    "dairy ghee",
+    "desi ghee",
+    "Food",
+    "food and health",
+    "ghee",
+    "Grocery",
+    "Indian cooking",
+    "Indian Food",
+    "Indian ghee",
+    "pure ghee",
+    "traditional ghee",
+    "TreeBites",
+    "treebites ghee"
+  ],
+  "price": 29900,
+  "price_min": 29900,
+  "price_max": 29900,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 53598685888805,
+      "title": "Default Title",
+      "option1": "Default Title",
+      "option2": null,
+      "option3": null,
+      "sku": "TB-GHEE-250G-001",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TreeBites Pure Ghee – Traditional Clarified Butter | 250 g",
+      "public_title": null,
+      "options": [
+        "Default Title"
+      ],
+      "price": 29900,
+      "weight": 250,
+      "compare_at_price": null,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "unit_price": 11960,
+      "unit_price_measurement": {
+        "measured_type": "weight",
+        "quantity_value": "250.0",
+        "quantity_unit": "g",
+        "reference_value": 100,
+        "reference_unit": "g"
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3179.png?v=1788244482",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3178.png?v=1788244480",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/file_000000009a808211ade9c40274227d9e.png?v=1786824009",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000ffa0821184bbee5d36847952.png?v=1786824010",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000379482118fc546e88f723bff.png?v=1786824009",
+    "//cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000fc748211a4585711ea68d593.png?v=1786824009"
+  ],
+  "featured_image": "//cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3179.png?v=1788244482",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": [
+        "Default Title"
+      ]
+    }
+  ],
+  "url": "/products/treebites-pure-ghee-250g",
+  "media": [
+    {
+      "alt": null,
+      "id": 58317531250981,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3179.png?v=1788244482"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3179.png?v=1788244482",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58317531218213,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1.5,
+        "height": 1024,
+        "width": 1536,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3178.png?v=1788244480"
+      },
+      "aspect_ratio": 1.5,
+      "height": 1024,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/IMG_3178.png?v=1788244480",
+      "width": 1536
+    },
+    {
+      "alt": null,
+      "id": 58190584152357,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_000000009a808211ade9c40274227d9e.png?v=1786824009"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_000000009a808211ade9c40274227d9e.png?v=1786824009",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58190584217893,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000ffa0821184bbee5d36847952.png?v=1786824010"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000ffa0821184bbee5d36847952.png?v=1786824010",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58190584185125,
+      "position": 5,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000379482118fc546e88f723bff.png?v=1786824009"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000379482118fc546e88f723bff.png?v=1786824009",
+      "width": 1254
+    },
+    {
+      "alt": null,
+      "id": 58190584250661,
+      "position": 6,
+      "preview_image": {
+        "aspect_ratio": 1,
+        "height": 1254,
+        "width": 1254,
+        "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000fc748211a4585711ea68d593.png?v=1786824009"
+      },
+      "aspect_ratio": 1,
+      "height": 1254,
+      "media_type": "image",
+      "src": "https://cdn.shopify.com/s/files/1/0981/5719/9653/files/file_00000000fc748211a4585711ea68d593.png?v=1786824009",
+      "width": 1254
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}
