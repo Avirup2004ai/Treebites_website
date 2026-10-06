@@ -30,6 +30,8 @@ for(const file of pages){
  const graph=JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)?.[1]||'null');
  assert.equal(graph['@context'],'https://schema.org');
  assert.ok(graph['@graph'].some(x=>x['@type']==='WebSite'));
+ const organization=graph['@graph'].find(x=>x['@type']==='Organization');
+ assert.equal(new URL(organization.logo).pathname,'/assets/Treebites_logo.png');
  if(is404){assert.match(html,/name="robots" content="noindex, follow"/);assert.doesNotMatch(html,/rel="canonical"/);continue}
  const url=decode(html.match(/rel="canonical" href="([^"]+)"/)?.[1]||'');
  assert.equal(new URL(url).origin,site.url);
@@ -66,11 +68,11 @@ for(const file of pages){
 const xml=read('sitemap.xml');
 const sitemap=[...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map(x=>decode(x[1]));
 assert.deepEqual(new Set(sitemap),canonical);
-assert.equal(sitemap.length,30);assert.equal(products,20);assert.equal(breadcrumbs,29);
+assert.equal(sitemap.length,29);assert.equal(products,19);assert.equal(breadcrumbs,28);
 assert.ok(read('llms.txt').includes(site.url+'/our-story/'));
 assert.ok(read('llms-full.txt').includes('About TreeBites'));
 assert.ok(read('llms-full.txt').includes('GET IN TOUCH'));
-assert.equal([...xml.matchAll(/<image:image>/g)].length,20);
+assert.equal([...xml.matchAll(/<image:image>/g)].length,19);
 const robots=read('robots.txt');
 assert.match(robots,/User-agent: \*\s+Allow: \//);assert.doesNotMatch(robots,/^Disallow: \/\s*$/m);
 assert.ok(robots.includes(`Sitemap: ${site.url}/sitemap.xml`));

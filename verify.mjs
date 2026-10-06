@@ -20,6 +20,9 @@ for(const file of pages){
  assert.match(html,/id="page-progress"[^>]+role="progressbar"[^>]+hidden/);
  assert.ok(html.includes('href="/our-story/"'),`Story navigation missing: ${file}`);
  assert.doesNotMatch(html,/href="\/#our-story"/);
+ assert.doesNotMatch(html,/Order on Website|nolen-gur-two-pack|Nolen Gur · Two Pack/);
+ assert.match(html,/<link rel="icon" type="image\/png" href="\/assets\/Treebites_favicon\.png\?v=[a-f0-9]{12}">/);
+ assert.equal([...html.matchAll(/<img src="\/assets\/Treebites_logo\.png\?v=[a-f0-9]{12}"/g)].length,2,`Header and footer logos required: ${file}`);
  const socials=html.match(/<div class="footer-socials"[\s\S]*?<\/div>/)?.[0]||'';
  assert.equal([...socials.matchAll(/<svg\b/g)].length,2,`Two social icons required: ${file}`);
  assert.match(socials,/Instagram/);assert.match(socials,/Facebook/);
@@ -42,17 +45,22 @@ for(const file of pages){
  const exported=path.join(root,'dist',path.relative(root,file));
  assert.equal(fs.readFileSync(exported,'utf8'),html,`Hosting copy out of date: ${file}`);
 }
-assert.equal(catalogue.length,20);
+assert.equal(catalogue.length,19);
+assert.ok(!catalogue.some(product=>product.id==='TB-03'));
+for(const relative of ['products/nolen-gur-two-pack/index.html','dist/products/nolen-gur-two-pack/index.html'])assert.ok(!fs.existsSync(path.join(root,relative)),`Retired page still exists: ${relative}`);
+for(const file of ['sitemap.xml','llms.txt','llms-full.txt','catalogue.json'])assert.doesNotMatch(fs.readFileSync(path.join(root,file),'utf8'),/nolen-gur-two-pack|Nolen Gur · Two Pack|Order on Website/);
 const amazon=[];
 for(const p of catalogue){
  const html=fs.readFileSync(path.join(root,'products',p.slug,'index.html'),'utf8');
  assert.ok(html.includes(p.website.replaceAll('&','&amp;')),`Missing exact website variant: ${p.name}`);
- assert.match(html,/Order on Amazon/);assert.match(html,/Order on Website/);
+ const buttons=html.match(/<div class="purchase-buttons">([\s\S]*?)<\/div>/)?.[1]||'';
+ assert.match(buttons,/Order on Amazon/);assert.match(buttons,/>Buy now</);
+ assert.ok(buttons.indexOf('Order on Amazon')<buttons.indexOf('Buy now'),`Amazon must precede Buy now: ${p.name}`);
  if(p.amazon){assert.ok(html.includes(p.amazon),`Missing Amazon link: ${p.name}`);assert.ok(new URL(p.amazon).pathname.startsWith('/dp/'));amazon.push(p.amazon)}
  else{assert.match(html,/<button class="button amazon" disabled/);assert.match(html,/id="amazon-note"/)}
  assert.ok(!html.includes('₹'),'Unexpected stale price');
 }
-assert.equal(new Set(amazon).size,13);assert.equal(pages.length,31);
+assert.equal(new Set(amazon).size,13);assert.equal(pages.length,30);
 const categoryPage=fs.readFileSync(path.join(root,'categories/index.html'),'utf8');
 assert.match(categoryPage,/\/assets\/collections\.css\?v=[a-f0-9]{12}/);
 assert.equal([...categoryPage.matchAll(/class="category-row"/g)].length,5);
@@ -62,4 +70,4 @@ for(const img of images){
  if(img.endsWith('.webp')){assert.equal(bytes.subarray(0,4).toString(),'RIFF');assert.equal(bytes.subarray(8,12).toString(),'WEBP')}
  else assert.equal(bytes.subarray(1,4).toString(),'PNG');
 }
-console.log(JSON.stringify({pages:pages.length,products:catalogue.length,categories:5,checkedLocalReferences:references,images:images.length,websiteLinks:20,enabledAmazonLinks:13,heldAmazonLinks:7,status:'passed'},null,2));
+console.log(JSON.stringify({pages:pages.length,products:catalogue.length,categories:5,checkedLocalReferences:references,images:images.length,websiteLinks:catalogue.length,enabledAmazonLinks:amazon.length,heldAmazonLinks:catalogue.length-amazon.length,status:'passed'},null,2));

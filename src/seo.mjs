@@ -15,7 +15,7 @@ export function createSEO({root,products,categories,site}) {
  const pages=[];
  const imageURL=src=>manifest[src]?.sizes.at(-1).url||src;
  const imageSet=src=>manifest[src]?.sizes.map(x=>`${x.url} ${x.width}w`).join(', ');
- const organization={'@type':'Organization','@id':absolute('/#organization'),name:site.name,url:absolute('/'),email:site.email,sameAs:[site.instagram,site.facebook].filter(Boolean)};
+ const organization={'@type':'Organization','@id':absolute('/#organization'),name:site.name,url:absolute('/'),logo:absolute('/assets/Treebites_logo.png'),email:site.email,sameAs:[site.instagram,site.facebook].filter(Boolean)};
  const website={'@type':'WebSite','@id':absolute('/#website'),name:site.name,url:absolute('/'),inLanguage:site.language,publisher:{'@id':organization['@id']}};
 
  function responsiveImages(html){
@@ -91,7 +91,7 @@ ${notFound?'':`<meta property="og:url" content="${escape(url)}">`}
 <script type="application/ld+json">${json({'@context':'https://schema.org','@graph':graph})}</script>
 `;
   html=responsiveImages(html.replace('</head>',metadata+'</head>'));
-  for(const file of ['style.css','pages.css','brand.css','motion.css','story.css','collections.css','site.js']){
+  for(const file of ['style.css','pages.css','brand.css','motion.css','story.css','collections.css','site.js','Treebites_logo.png','Treebites_favicon.png']){
    const hash=createHash('sha256').update(fs.readFileSync(path.join(root,'assets',file))).digest('hex').slice(0,12);
    html=html.replaceAll(`/assets/${file}"`,`/assets/${file}?v=${hash}"`);
   }

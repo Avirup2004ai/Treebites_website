@@ -4,12 +4,12 @@
 
 The canonical origin is **https://tree-bites.com**, as confirmed by the owner. Change `site.config.json` and rebuild if the public domain changes.
 
-- 30 canonical, indexable HTML pages; a separate `noindex` 404 page.
+- 29 canonical, indexable HTML pages; a separate `noindex` 404 page.
 - Unique titles and concise descriptions, language metadata, text Open Graph/Twitter metadata and stable internal links.
 - Complete product copy, pack sizes, retailer links and navigation in the initial HTML. Crawlers do not need JavaScript to read them. Mobile navigation also has a no-JavaScript fallback.
-- JSON-LD: Organization, WebSite, WebPage/ItemPage/CollectionPage/AboutPage, 20 Product records, 29 breadcrumb trails, category/product lists and the four visible homepage FAQ answers.
+- JSON-LD: Organization (including the supplied logo), WebSite, WebPage/ItemPage/CollectionPage/AboutPage, 19 Product records, 28 breadcrumb trails, category/product lists and the four visible homepage FAQ answers.
 - `/our-story/` has its own canonical URL, title, description and AboutPage entity linked to the brand's Organization. It is linked from the main navigation, homepage, footer, HTML/XML sitemaps and `llms.txt`; its readable page content is also included in `llms-full.txt`.
-- `sitemap.xml` with all canonical pages and the 20 primary product images; a linked human-readable `/sitemap/`.
+- `sitemap.xml` with all canonical pages and the 19 primary product images; a linked human-readable `/sitemap/`.
 - `robots.txt` allows public crawling under `User-agent: *`. This includes search crawlers, AI search crawlers and training crawlers. Only source, development and build directories are excluded.
 - `llms.txt`, `llms-full.txt` and `catalogue.json` provide an additional readable directory and product facts. They contain the same public information, without hidden promotional instructions.
 - Responsive WebP files, explicit image dimensions, eager/high-priority hero images, lazy-loaded secondary images, local fonts and versioned stylesheet/script URLs.
@@ -35,7 +35,7 @@ Product structured data intentionally does **not** invent ratings, reviews, avai
 
 FAQ data matches the visible questions, but it does not imply eligibility for a Google FAQ rich result. Brand-supplied image labels may contain marketing claims; the site's written content does not verify those claims.
 
-The seven unconfirmed Amazon destinations remain unavailable in both the interface and the machine-readable catalogue. Confirm their exact pack/listing before enabling them.
+The six unconfirmed Amazon destinations remain unavailable in both the interface and the machine-readable catalogue. Confirm their exact pack/listing before enabling them. The retired Nolen Gur two-pack is excluded from the catalogue, structured data, sitemaps and readable discovery files.
 
 ## Primary references
 

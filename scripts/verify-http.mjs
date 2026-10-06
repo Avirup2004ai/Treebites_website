@@ -12,7 +12,10 @@ try{
  for(const [route,type] of [['/','text/html'],['/our-story/','text/html'],['/categories/','text/html'],['/assets/story.css','text/css'],['/assets/collections.css','text/css'],['/products/','text/html'],['/products/healthy-mix/','text/html'],['/categories/seeds-and-mixes/','text/html'],['/sitemap/','text/html'],['/sitemap.xml','application/xml'],['/robots.txt','text/plain'],['/llms.txt','text/plain'],['/llms-full.txt','text/plain'],['/catalogue.json','application/json'],['/assets/fonts/sora-latin.woff2','font/woff2']]){
   const response=await fetch(origin+route);assert.equal(response.status,200,route);assert.ok(response.headers.get('content-type').startsWith(type));await response.arrayBuffer();checked++;
  }
- for(const route of ['/missing-product/','/src/research.json','/.openai/hosting.json','/404.html']){const response=await fetch(origin+route);assert.equal(response.status,404,route);assert.equal(response.headers.get('x-robots-tag'),'noindex');await response.text();checked++}
+ for(const route of ['/missing-product/','/products/nolen-gur-two-pack/','/src/research.json','/.openai/hosting.json','/404.html']){const response=await fetch(origin+route);assert.equal(response.status,404,route);assert.equal(response.headers.get('x-robots-tag'),'noindex');await response.text();checked++}
+ for(const name of ['Treebites_logo.png','Treebites_favicon.png']){
+  const response=await fetch(origin+'/assets/'+name);assert.equal(response.status,200);assert.ok(response.headers.get('content-type').startsWith('image/png'));await response.arrayBuffer();checked++;
+ }
  for(const [route,destination] of [['/products','/products/'],['/products/index.html','/products/'],['/our-story','/our-story/'],['/our-story/index.html','/our-story/'],['/index.html','/']]){const response=await fetch(origin+route,{redirect:'manual'});assert.equal(response.status,308);assert.equal(response.headers.get('location'),destination);checked++}
  const head=await fetch(origin+'/sitemap.xml',{method:'HEAD'});assert.equal(head.status,200);assert.equal(await head.text(),'');
  const response=await fetch(origin+'/assets/site.js');const etag=response.headers.get('etag');await response.text();assert.equal((await fetch(origin+'/assets/site.js',{headers:{'If-None-Match':etag}})).status,304);

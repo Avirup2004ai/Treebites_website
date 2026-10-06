@@ -24,18 +24,6 @@
     "image": "/assets/TB-02-pack.png"
   },
   {
-    "id": "TB-03",
-    "name": "Nolen Gur · Two Pack",
-    "slug": "nolen-gur-two-pack",
-    "category": "Kitchen staples",
-    "size": "2 × 250 g",
-    "website": "https://fashinoworld.com/products/treebites-nolen-gur-date-palm-jaggery-traditional-bengali-khejur-gur-pack-of-2-x-250-g?variant=53818710458661",
-    "amazon": null,
-    "amazonResearch": null,
-    "amazonStatus": "amazon_not_verified",
-    "image": "/assets/TB-03-pack.png"
-  },
-  {
     "id": "TB-04",
     "name": "Isabgol Psyllium Husk",
     "slug": "isabgol",

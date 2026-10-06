@@ -1,4 +1,4 @@
-export function renderHome({card,pById,categories,categoryTile,faq}) {
+export function renderHome({card,pById,categories,categoryTile,faq,productCount}) {
  return `
 <section class="hero" aria-labelledby="hero-title">
  <div class="hero-copy">
@@ -6,7 +6,7 @@ export function renderHome({card,pById,categories,categoryTile,faq}) {
   <h1 id="hero-title">Goodness.<br><span>On repeat.</span></h1>
   <p>Crunch into seeds. Stir in a little tradition.<br>Find the good stuff for your everyday.</p>
   <div class="hero-actions"><a class="button" href="/products/">Find your good</a><a class="text-link" href="/categories/">Explore the range</a></div>
-  <div class="hero-bottom"><span><strong>20</strong> ways to find your favourite</span><span>Seeds. Staples.<br>Sips. And more.</span></div>
+  <div class="hero-bottom"><span><strong>${productCount}</strong> ways to find your favourite</span><span>Seeds. Staples.<br>Sips. And more.</span></div>
  </div>
  <div class="hero-visual">
   <div class="hero-stamp"><span>THE EVERYDAY</span><strong>good stuff.</strong><span>BY TREEBITES</span></div>
@@ -17,7 +17,7 @@ export function renderHome({card,pById,categories,categoryTile,faq}) {
 </section>
 <div class="brand-strip" aria-label="The TreeBites range"><span>SEEDS WITH CRUNCH</span><b aria-hidden="true">✳</b><span>STAPLES WITH SOUL</span><b aria-hidden="true">✳</b><span>SIPS WITH A TWIST</span><b aria-hidden="true">✳</b><span>EVERYDAY TREEBITES</span></div>
 <section class="section favourites-section">
- <div class="section-heading"><div><span class="eyebrow">YOUR PANTRY, WITH PERSONALITY</span><h2>Small additions.<br><span class="accent-text">Big possibilities.</span></h2></div><div class="section-aside"><p>Meet the ingredients you’ll keep coming back to.</p><a class="text-link" href="/products/">Explore all 20 products</a></div></div>
+ <div class="section-heading"><div><span class="eyebrow">YOUR PANTRY, WITH PERSONALITY</span><h2>Small additions.<br><span class="accent-text">Big possibilities.</span></h2></div><div class="section-aside"><p>Meet the ingredients you’ll keep coming back to.</p><a class="text-link" href="/products/">Explore all ${productCount} products</a></div></div>
  <div class="product-grid featured-grid">${['TB-15','TB-12','TB-05','TB-17'].map(id=>card(pById(id))).join('')}</div>
 </section>
 <section class="category-section"><div class="section">

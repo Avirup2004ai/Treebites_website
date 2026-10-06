@@ -19,7 +19,8 @@ Use an HTTP server instead of opening HTML through `file://`, because the site u
 ## What is included
 
 - A modern FMCG visual system with Sora headings, Manrope body text, forest green, citrus accents and actual TreeBites product photography.
-- Homepage, a dedicated `/our-story/` brand page, category index, five category collections, 20 product pages, an HTML sitemap and a 404 page.
+- Homepage, a dedicated `/our-story/` brand page, category index, five category collections, 19 product pages, an HTML sitemap and a 404 page.
+- The supplied `assets/Treebites_logo.png` appears in the header and footer; `assets/Treebites_favicon.png` is the browser icon. Both have content-versioned URLs. Original artwork files are preserved.
 - Mobile navigation, catalogue search, image selection and direct retailer buttons. No cart or checkout.
 - Small button movements, short heading fades, animated mobile navigation, native accordions with content fades, and decoded image transitions that respect reduced-motion preferences. Large cards and packshots remain still during scrolling; there are no animated shadows or per-frame accordion height changes.
 - Instagram and Facebook icons with visible names in every footer. Instagram is connected; Facebook awaits its official profile URL.
@@ -82,11 +83,10 @@ Automated checks pass. This session had no connected browser, so desktop/mobile 
 
 ## Retailer links
 
-All 20 Fashinoworld buttons point to their product/variant URLs. Thirteen Amazon links are enabled. Seven remain disabled until the exact listing or pack is confirmed:
+All 19 **Buy now** buttons point to their Fashinoworld product/variant URLs. **Order on Amazon** is always the first button. Thirteen Amazon links are enabled. Six remain disabled until the exact listing or pack is confirmed:
 
 | Product | Confirmation needed |
 |---|---|
-| Nolen Gur two-pack | Exact Amazon listing |
 | Sattu Protein Mix 150 g | Exact Amazon listing |
 | Shilajit Capsules | Exact Amazon listing |
 | Healthy Mix | Amazon title says 200 g; structured quantity says 250 g |
@@ -95,5 +95,7 @@ All 20 Fashinoworld buttons point to their product/variant URLs. Thirteen Amazon
 | Nolen Gur single jar | Website says 250 g; Amazon title says 250 ml |
 
 Prices, stock, shipping and returns are shown on the retailer. There is no live inventory integration. Amazon evidence was reviewed on 25 September 2026; Fashinoworld data and images were fetched on 5 October 2026. Brand packaging may contain printed claims; the website's own copy does not add unverified certifications, therapeutic claims, testimonials or founder history.
+
+The Nolen Gur two-pack was removed from the public catalogue at the owner's request. Its generated page is removed from both the project and `dist/` on build, and its URL returns 404. Historical research and original product assets remain available in the source project.
 
 The `.openai/hosting.json` file retains the existing Site identity. Preserve it for future hosted updates. The website has not been published or connected to the custom domain by this local editing task.
